@@ -1,0 +1,1307 @@
+[
+{
+"id": "rec_1",
+"title": "Poulet croustillant & purée maison",
+"q": "Poulet croustillant"
+},
+{
+"id": "rec_2",
+"title": "Frites de patates douces & poisson pané",
+"q": "Frites de patates douces"
+},
+{
+"id": "rec_3",
+"title": "Curry de poulet coco & riz basmati",
+"q": "Curry de poulet coco"
+},
+{
+"id": "rec_4",
+"title": "Saumon rôti & légumes de saison",
+"q": "Saumon rôti"
+},
+{
+"id": "rec_5",
+"title": "Brioche aux pépites de chocolat",
+"q": "Brioche aux pépites de chocolat"
+},
+{
+"id": "rec_6",
+"title": "Velouté de potimarron & croûtons",
+"q": "Velouté de potimarron"
+},
+{
+"id": "rec_7",
+"title": "Nuggets maison & wedges épicées",
+"q": "Nuggets"
+},
+{
+"id": "rec_8",
+"title": "Gratin dauphinois & magret de canard",
+"q": "Gratin dauphinois"
+},
+{
+"id": "rec_9",
+"title": "Risotto crémeux aux champignons",
+"q": "Risotto aux champignons"
+},
+{
+"id": "rec_10",
+"title": "Pâte à crêpes",
+"q": "Crêpes"
+},
+{
+"id": "rec_11",
+"title": "Béchamel express",
+"q": "Sauce béchamel"
+},
+{
+"id": "rec_12",
+"title": "Houmous citronné",
+"q": "Houmous citronné"
+},
+{
+"id": "rec_13",
+"title": "Compote pommes-cannelle",
+"q": "Compote pommes-cannelle"
+},
+{
+"id": "rec_14",
+"title": "Poulet rôti & pommes grenaille",
+"q": "Poulet rôti"
+},
+{
+"id": "rec_15",
+"title": "Cookies au chocolat",
+"q": "Cookies au chocolat"
+},
+{
+"id": "rec_16",
+"title": "Légumes rôtis, pois chiches & feta",
+"q": "Légumes rôtis"
+},
+{
+"id": "rec_17",
+"title": "Soupe de lentilles corail",
+"q": "Soupe de lentilles corail"
+},
+{
+"id": "fr_daube",
+"title": "Daube provençale",
+"q": "Daube provençale"
+},
+{
+"id": "fr_bourguignon",
+"title": "Bœuf bourguignon",
+"q": "Bœuf bourguignon"
+},
+{
+"id": "fr_blanquette",
+"title": "Blanquette de veau",
+"q": "Blanquette de veau"
+},
+{
+"id": "fr_ratatouille",
+"title": "Ratatouille",
+"q": "Ratatouille"
+},
+{
+"id": "fr_quiche",
+"title": "Quiche lorraine",
+"q": "Quiche lorraine"
+},
+{
+"id": "fr_parmentier",
+"title": "Hachis parmentier",
+"q": "Hachis parmentier"
+},
+{
+"id": "fr_basquaise",
+"title": "Poulet basquaise",
+"q": "Poulet basquaise"
+},
+{
+"id": "fr_oignon",
+"title": "Soupe à l’oignon gratinée",
+"q": "Soupe à l’oignon gratinée"
+},
+{
+"id": "fr_croque",
+"title": "Croque-monsieur",
+"q": "Croque-monsieur"
+},
+{
+"id": "fr_mousse",
+"title": "Mousse au chocolat",
+"q": "Mousse au chocolat"
+},
+{
+"id": "fr_clafoutis",
+"title": "Clafoutis aux cerises",
+"q": "Clafoutis aux cerises"
+},
+{
+"id": "w_bolo",
+"title": "Spaghetti bolognaise",
+"q": "Spaghetti bolognaise"
+},
+{
+"id": "w_carbo",
+"title": "Pâtes carbonara",
+"q": "Pâtes carbonara"
+},
+{
+"id": "w_chili",
+"title": "Chili con carne",
+"q": "Chili con carne"
+},
+{
+"id": "w_butter",
+"title": "Butter chicken",
+"q": "Butter chicken"
+},
+{
+"id": "w_lasagnes",
+"title": "Lasagnes",
+"q": "Lasagnes"
+},
+{
+"id": "w_pizza",
+"title": "Pizza maison",
+"q": "Pizza"
+},
+{
+"id": "w_falafel",
+"title": "Falafels",
+"q": "Falafels"
+},
+{
+"id": "w_guac",
+"title": "Guacamole",
+"q": "Guacamole"
+},
+{
+"id": "w_gaspacho",
+"title": "Gaspacho",
+"q": "Gaspacho"
+},
+{
+"id": "w_pancakes",
+"title": "Pancakes",
+"q": "Pancakes"
+},
+{
+"id": "w_wings",
+"title": "Ailes de poulet barbecue",
+"q": "Ailes de poulet barbecue"
+},
+{
+"id": "w_tiramisu",
+"title": "Tiramisu",
+"q": "Tiramisu"
+},
+{
+"id": "w_naan",
+"title": "Naans au fromage",
+"q": "Naans au fromage"
+},
+{
+"id": "p_taboule",
+"title": "Taboulé libanais",
+"q": "Taboulé libanais"
+},
+{
+"id": "p_rillettes",
+"title": "Rillettes de thon",
+"q": "Rillettes de thon"
+},
+{
+"id": "p_oeufs_cocotte",
+"title": "Œufs cocotte crème et ciboulette",
+"q": "Œufs cocotte crème et ciboulette"
+},
+{
+"id": "p_samoussas",
+"title": "Samoussas de légumes",
+"q": "Samoussas de légumes"
+},
+{
+"id": "p_carottes",
+"title": "Carottes râpées au cumin",
+"q": "Carottes râpées au cumin"
+},
+{
+"id": "p_veloute_poireaux",
+"title": "Velouté poireaux-pommes de terre",
+"q": "Velouté poireaux-pommes de terre"
+},
+{
+"id": "p_petitspois",
+"title": "Crème de petits pois à la menthe",
+"q": "Crème de petits pois à la menthe"
+},
+{
+"id": "p_varoma_saumon",
+"title": "Repas complet vapeur : saumon, légumes et riz",
+"q": "saumon vapeur légumes"
+},
+{
+"id": "p_varoma_poulet",
+"title": "Poulet vapeur, pommes de terre et sauce curry",
+"q": "Poulet vapeur"
+},
+{
+"id": "p_riz",
+"title": "Riz blanc au panier",
+"q": "Riz blanc au panier"
+},
+{
+"id": "p_legumes_vapeur",
+"title": "Légumes vapeur et beurre citronné",
+"q": "Légumes vapeur et beurre citronné"
+},
+{
+"id": "p_frites",
+"title": "Frites maison",
+"q": "Frites"
+},
+{
+"id": "p_choufleur",
+"title": "Gratin de chou-fleur",
+"q": "Gratin de chou-fleur"
+},
+{
+"id": "p_puree_douce",
+"title": "Purée de patates douces",
+"q": "Purée de patates douces"
+},
+{
+"id": "p_mayo",
+"title": "Mayonnaise inratable",
+"q": "Mayonnaise"
+},
+{
+"id": "p_pesto",
+"title": "Pesto au basilic",
+"q": "Pesto au basilic"
+},
+{
+"id": "p_hollandaise",
+"title": "Sauce hollandaise",
+"q": "Sauce hollandaise"
+},
+{
+"id": "p_brisee",
+"title": "Pâte brisée",
+"q": "Pâte brisée tarte"
+},
+{
+"id": "p_pain",
+"title": "Pain de campagne",
+"q": "Pain de campagne"
+},
+{
+"id": "p_painmie",
+"title": "Pain de mie moelleux",
+"q": "Pain de mie"
+},
+{
+"id": "p_creme_anglaise",
+"title": "Crème anglaise",
+"q": "Crème anglaise"
+},
+{
+"id": "p_creme_brulee",
+"title": "Crème brûlée",
+"q": "Crème brûlée"
+},
+{
+"id": "p_fondant",
+"title": "Fondant au chocolat",
+"q": "Fondant au chocolat"
+},
+{
+"id": "p_tarte_pommes",
+"title": "Tarte aux pommes",
+"q": "Tarte aux pommes"
+},
+{
+"id": "p_sorbet",
+"title": "Sorbet minute aux fruits rouges",
+"q": "Sorbet aux fruits rouges"
+},
+{
+"id": "p_rizaulait",
+"title": "Riz au lait vanillé",
+"q": "Riz au lait vanillé"
+},
+{
+"id": "p_patissiere",
+"title": "Crème pâtissière",
+"q": "Crème pâtissière"
+},
+{
+"id": "p_pommes_four",
+"title": "Pommes rôties cannelle-miel",
+"q": "Pommes rôties cannelle-miel"
+},
+{
+"id": "p_brownie",
+"title": "Brownie aux noix",
+"q": "Brownie aux noix"
+},
+{
+"id": "p_bananabread",
+"title": "Banana bread",
+"q": "Banana bread"
+},
+{
+"id": "p_tapenade",
+"title": "Tapenade noire",
+"q": "Tapenade noire"
+},
+{
+"id": "p_gougeres",
+"title": "Gougères au comté",
+"q": "Gougères au comté"
+},
+{
+"id": "p_poischiches",
+"title": "Pois chiches croustillants",
+"q": "Pois chiches croustillants"
+},
+{
+"id": "p_chips_pomme",
+"title": "Chips de pommes déshydratées",
+"q": "Chips de pommes déshydratées"
+},
+{
+"id": "p_granola",
+"title": "Granola maison",
+"q": "Granola"
+},
+{
+"id": "p_yaourts",
+"title": "Yaourts maison",
+"q": "Yaourts"
+},
+{
+"id": "p_confiture",
+"title": "Confiture de fraises",
+"q": "Confiture de fraises"
+},
+{
+"id": "p_smoothie",
+"title": "Smoothie banane-fruits rouges",
+"q": "Smoothie banane-fruits rouges"
+},
+{
+"id": "p_chocochaud",
+"title": "Chocolat chaud à l’ancienne",
+"q": "Chocolat chaud"
+},
+{
+"id": "p_amande",
+"title": "Lait d’amande",
+"q": "Lait d’amande"
+},
+{
+"id": "p_citronnade",
+"title": "Citronnade maison",
+"q": "Citronnade"
+},
+{
+"id": "f_coqauvin",
+"title": "Coq au vin",
+"q": "Coq au vin"
+},
+{
+"id": "f_pouletcreme",
+"title": "Poulet à la crème et aux champignons",
+"q": "Poulet à la crème et aux champignons"
+},
+{
+"id": "f_navarin",
+"title": "Navarin d’agneau printanier",
+"q": "Navarin d’agneau printanier"
+},
+{
+"id": "f_marengo",
+"title": "Sauté de veau Marengo",
+"q": "Sauté de veau Marengo"
+},
+{
+"id": "f_petitsale",
+"title": "Petit salé aux lentilles",
+"q": "Petit salé aux lentilles"
+},
+{
+"id": "f_cassoulet",
+"title": "Cassoulet express",
+"q": "Cassoulet"
+},
+{
+"id": "f_tartiflette",
+"title": "Tartiflette",
+"q": "Tartiflette"
+},
+{
+"id": "f_endives",
+"title": "Endives au jambon",
+"q": "Endives au jambon"
+},
+{
+"id": "f_brandade",
+"title": "Brandade de morue",
+"q": "Brandade de morue"
+},
+{
+"id": "f_moules",
+"title": "Moules marinières",
+"q": "Moules marinières"
+},
+{
+"id": "f_lapin",
+"title": "Lapin à la moutarde",
+"q": "Lapin à la moutarde"
+},
+{
+"id": "f_boeufcarottes",
+"title": "Bœuf carottes",
+"q": "Bœuf carottes"
+},
+{
+"id": "f_macaroni",
+"title": "Gratin de macaronis",
+"q": "Gratin de macaronis"
+},
+{
+"id": "f_flammekueche",
+"title": "Tarte flambée",
+"q": "Tarte flambée"
+},
+{
+"id": "f_pissaladiere",
+"title": "Pissaladière",
+"q": "Pissaladière"
+},
+{
+"id": "f_pistou",
+"title": "Soupe au pistou",
+"q": "Soupe au pistou"
+},
+{
+"id": "f_bouillabaisse",
+"title": "Soupe de poisson façon bouillabaisse",
+"q": "Soupe de poisson bouillabaisse"
+},
+{
+"id": "f_poireaux",
+"title": "Poireaux vinaigrette",
+"q": "Poireaux vinaigrette"
+},
+{
+"id": "f_mimosa",
+"title": "Œufs mimosa",
+"q": "Œufs mimosa"
+},
+{
+"id": "f_celeri",
+"title": "Céleri rémoulade",
+"q": "Céleri rémoulade"
+},
+{
+"id": "f_nicoise",
+"title": "Salade niçoise",
+"q": "Salade niçoise"
+},
+{
+"id": "f_souffle",
+"title": "Soufflé au fromage",
+"q": "Soufflé au fromage"
+},
+{
+"id": "f_galettes",
+"title": "Galettes de sarrasin complètes",
+"q": "Galettes de sarrasin"
+},
+{
+"id": "f_far",
+"title": "Far breton aux pruneaux",
+"q": "Far breton aux pruneaux"
+},
+{
+"id": "f_flan",
+"title": "Flan pâtissier",
+"q": "Flan pâtissier"
+},
+{
+"id": "f_tartecitron",
+"title": "Tarte au citron meringuée",
+"q": "Tarte au citron meringuée"
+},
+{
+"id": "f_ileflottante",
+"title": "Îles flottantes",
+"q": "Îles flottantes"
+},
+{
+"id": "f_profiteroles",
+"title": "Profiteroles",
+"q": "Profiteroles"
+},
+{
+"id": "f_madeleines",
+"title": "Madeleines à bosse",
+"q": "Madeleines à bosse"
+},
+{
+"id": "f_financiers",
+"title": "Financiers aux amandes",
+"q": "Financiers aux amandes"
+},
+{
+"id": "f_caramel",
+"title": "Crème caramel",
+"q": "Crème caramel"
+},
+{
+"id": "f_belleh",
+"title": "Poires Belle-Hélène",
+"q": "Poires Belle-Hélène"
+},
+{
+"id": "f_tatin",
+"title": "Tarte Tatin",
+"q": "Tarte Tatin"
+},
+{
+"id": "f_yaourt",
+"title": "Gâteau au yaourt",
+"q": "Gâteau au yaourt"
+},
+{
+"id": "f_quatrequarts",
+"title": "Quatre-quarts breton",
+"q": "Quatre-quarts breton"
+},
+{
+"id": "f_painperdu",
+"title": "Pain perdu",
+"q": "Pain perdu"
+},
+{
+"id": "f_gaufres",
+"title": "Gaufres",
+"q": "Gaufres"
+},
+{
+"id": "f_hachis_canard",
+"title": "Parmentier de canard",
+"q": "Parmentier de canard"
+},
+{
+"id": "f_saucisses",
+"title": "Saucisses, purée et sauce oignons",
+"q": "Saucisses"
+},
+{
+"id": "l2_potaufeu",
+"title": "Pot-au-feu",
+"q": "Pot-au-feu"
+},
+{
+"id": "l2_pouleaupot",
+"title": "Poule au pot",
+"q": "Poule au pot"
+},
+{
+"id": "l2_choucroute",
+"title": "Choucroute garnie",
+"q": "Choucroute garnie"
+},
+{
+"id": "l2_paupiettes",
+"title": "Paupiettes de veau",
+"q": "Paupiettes de veau"
+},
+{
+"id": "l2_roti_porc",
+"title": "Rôti de porc à la moutarde",
+"q": "Rôti de porc à la moutarde"
+},
+{
+"id": "l2_filet_pruneaux",
+"title": "Filet mignon aux pruneaux",
+"q": "Filet mignon aux pruneaux"
+},
+{
+"id": "l2_porc_cidre",
+"title": "Sauté de porc au cidre",
+"q": "Sauté de porc au cidre"
+},
+{
+"id": "l2_vallee_auge",
+"title": "Poulet vallée d’Auge",
+"q": "Poulet vallée d’Auge"
+},
+{
+"id": "l2_canard_orange",
+"title": "Cuisses de canard à l’orange",
+"q": "Cuisses de canard à l’orange"
+},
+{
+"id": "l2_tomates_farcies",
+"title": "Tomates farcies et riz",
+"q": "Tomates farcies"
+},
+{
+"id": "l2_courgettes_farcies",
+"title": "Courgettes farcies provençales",
+"q": "Courgettes farcies provençales"
+},
+{
+"id": "l2_cabillaud_beurre_blanc",
+"title": "Cabillaud vapeur au beurre blanc",
+"q": "Cabillaud vapeur au beurre blanc"
+},
+{
+"id": "l2_truite_amandes",
+"title": "Truites aux amandes",
+"q": "Truites aux amandes"
+},
+{
+"id": "l2_sole_meuniere",
+"title": "Sole meunière",
+"q": "Sole meunière"
+},
+{
+"id": "l2_quenelles_nantua",
+"title": "Quenelles sauce Nantua",
+"q": "Quenelles sauce Nantua"
+},
+{
+"id": "l2_gratin_poisson",
+"title": "Gratin de poisson aux poireaux",
+"q": "Gratin de poisson aux poireaux"
+},
+{
+"id": "l2_papillotes_lieu",
+"title": "Papillotes de lieu à la fondue de poireaux",
+"q": "Papillotes de lieu à la fondue de poireaux"
+},
+{
+"id": "l2_joues_porc",
+"title": "Joues de porc confites au vin rouge",
+"q": "Joues de porc confites au vin rouge"
+},
+{
+"id": "l2_carbonade",
+"title": "Carbonade flamande",
+"q": "Carbonade flamande"
+},
+{
+"id": "l2_potee",
+"title": "Potée auvergnate",
+"q": "Potée auvergnate"
+},
+{
+"id": "l2_axoa",
+"title": "Axoa de veau",
+"q": "Axoa de veau"
+},
+{
+"id": "l2_poulet_vinaigre",
+"title": "Poulet au vinaigre",
+"q": "Poulet au vinaigre"
+},
+{
+"id": "l2_quiche_saumon",
+"title": "Quiche saumon-poireaux",
+"q": "Quiche saumon-poireaux"
+},
+{
+"id": "l2_tarte_tomate",
+"title": "Tarte fine tomate-moutarde",
+"q": "Tarte fine tomate-moutarde"
+},
+{
+"id": "l2_salade_lyonnaise",
+"title": "Salade lyonnaise",
+"q": "Salade lyonnaise"
+},
+{
+"id": "l2_chevre_chaud",
+"title": "Salade de chèvre chaud",
+"q": "Salade de chèvre chaud"
+},
+{
+"id": "l2_salade_lentilles",
+"title": "Salade de lentilles vertes",
+"q": "Salade de lentilles vertes"
+},
+{
+"id": "l2_piemontaise",
+"title": "Salade piémontaise",
+"q": "Salade piémontaise"
+},
+{
+"id": "l2_flan_legumes",
+"title": "Flans de légumes vapeur",
+"q": "Flans de légumes vapeur"
+},
+{
+"id": "l2_oeufs_meurette",
+"title": "Œufs en meurette",
+"q": "Œufs en meurette"
+},
+{
+"id": "l2_cultivateur",
+"title": "Potage cultivateur",
+"q": "Potage cultivateur"
+},
+{
+"id": "l2_carottes_cumin",
+"title": "Velouté de carottes au cumin",
+"q": "Velouté de carottes au cumin"
+},
+{
+"id": "l2_courgettes_frais",
+"title": "Velouté de courgettes au fromage frais",
+"q": "Velouté de courgettes au fromage frais"
+},
+{
+"id": "l2_garbure",
+"title": "Garbure béarnaise",
+"q": "Garbure béarnaise"
+},
+{
+"id": "l2_chataignes",
+"title": "Velouté de châtaignes",
+"q": "Velouté de châtaignes"
+},
+{
+"id": "l2_dubarry",
+"title": "Crème Du Barry",
+"q": "Crème Du Barry"
+},
+{
+"id": "l2_cresson",
+"title": "Velouté de cresson",
+"q": "Velouté de cresson"
+},
+{
+"id": "l2_aligot",
+"title": "Aligot",
+"q": "Aligot"
+},
+{
+"id": "l2_sarladaises",
+"title": "Pommes sarladaises",
+"q": "Pommes sarladaises"
+},
+{
+"id": "l2_gratin_savoyard",
+"title": "Gratin savoyard",
+"q": "Gratin savoyard"
+},
+{
+"id": "l2_puree_celeri",
+"title": "Purée de céleri-rave",
+"q": "Purée de céleri-rave"
+},
+{
+"id": "l2_tian",
+"title": "Tian provençal",
+"q": "Tian provençal"
+},
+{
+"id": "l2_cake_jambon",
+"title": "Cake salé jambon-olives",
+"q": "Cake salé jambon-olives"
+},
+{
+"id": "l2_feuilletes_saucisse",
+"title": "Feuilletés saucisse",
+"q": "Feuilletés saucisse"
+},
+{
+"id": "l2_cervelle_canut",
+"title": "Cervelle de canut",
+"q": "Cervelle de canut"
+},
+{
+"id": "l3_bravas",
+"title": "Patatas bravas",
+"q": "Patatas bravas"
+},
+{
+"id": "l3_gyros",
+"title": "Gyros de poulet en pita",
+"q": "Gyros de poulet en pita"
+},
+{
+"id": "l3_nems",
+"title": "Nems au porc",
+"q": "Nems au porc"
+},
+{
+"id": "l3_tao",
+"title": "Poulet croustillant façon général Tao",
+"q": "Poulet croustillant général Tao"
+},
+{
+"id": "l3_quesadillas",
+"title": "Quesadillas haricots noirs et cheddar",
+"q": "Quesadillas haricots noirs et cheddar"
+},
+{
+"id": "l3_burger",
+"title": "Burgers maison et potatoes",
+"q": "Burgers"
+},
+{
+"id": "l3_crevettes_coco",
+"title": "Crevettes panées à la noix de coco",
+"q": "Crevettes panées à la noix de coco"
+},
+{
+"id": "l3_onion_rings",
+"title": "Onion rings",
+"q": "Onion rings"
+},
+{
+"id": "l3_frites_courgettes",
+"title": "Frites de courgettes au parmesan",
+"q": "Frites de courgettes au parmesan"
+},
+{
+"id": "l3_chips_kale",
+"title": "Chips de chou kale",
+"q": "Chips de chou kale"
+},
+{
+"id": "l3_hasselback",
+"title": "Pommes de terre Hasselback",
+"q": "Pommes de terre Hasselback"
+},
+{
+"id": "l3_mozza_sticks",
+"title": "Mozzarella sticks",
+"q": "Mozzarella sticks"
+},
+{
+"id": "l3_cuisses_paprika",
+"title": "Cuisses de poulet croustillantes au paprika",
+"q": "Cuisses de poulet croustillantes au paprika"
+},
+{
+"id": "l3_agneau_soleil",
+"title": "Côtelettes d’agneau et légumes du soleil",
+"q": "Côtelettes d’agneau"
+},
+{
+"id": "l3_roti_boeuf",
+"title": "Rôti de bœuf en MegaZone",
+"q": "Rôti de bœuf"
+},
+{
+"id": "l3_piri_piri",
+"title": "Poulet piri-piri entier",
+"q": "Poulet piri-piri entier"
+},
+{
+"id": "l3_oeufs_durs",
+"title": "Œufs durs au Ninja",
+"q": "Œufs durs"
+},
+{
+"id": "l3_brochettes_halloumi",
+"title": "Brochettes de légumes et halloumi",
+"q": "Brochettes de légumes et halloumi"
+},
+{
+"id": "l3_arancini",
+"title": "Arancini à la mozzarella",
+"q": "Arancini à la mozzarella"
+},
+{
+"id": "l3_croquettes",
+"title": "Croquettes de pommes de terre",
+"q": "Croquettes de pommes de terre"
+},
+{
+"id": "l3_empanadas",
+"title": "Empanadas au bœuf",
+"q": "Empanadas au bœuf"
+},
+{
+"id": "l3_accras",
+"title": "Accras de morue",
+"q": "Accras de morue"
+},
+{
+"id": "l3_saumon_laque",
+"title": "Saumon laqué miel-soja, légumes et riz",
+"q": "Saumon laqué miel-soja"
+},
+{
+"id": "l3_tandoori",
+"title": "Poulet tandoori et riz basmati",
+"q": "Poulet tandoori"
+},
+{
+"id": "l3_moussaka",
+"title": "Moussaka",
+"q": "Moussaka"
+},
+{
+"id": "l3_parmigiana",
+"title": "Aubergines à la parmigiana",
+"q": "Aubergines à la parmigiana"
+},
+{
+"id": "l3_pulled_pork",
+"title": "Pulled pork",
+"q": "Pulled pork"
+},
+{
+"id": "l3_kottbullar",
+"title": "Boulettes suédoises sauce crème",
+"q": "Boulettes suédoises sauce crème"
+},
+{
+"id": "l3_dal",
+"title": "Dal jaune tadka",
+"q": "Dal jaune tadka"
+},
+{
+"id": "l3_biryani",
+"title": "Biryani de poulet",
+"q": "Biryani de poulet"
+},
+{
+"id": "l3_couscous",
+"title": "Couscous au poulet et légumes",
+"q": "Couscous au poulet"
+},
+{
+"id": "l3_tajine_citron",
+"title": "Tajine de poulet au citron confit et olives",
+"q": "Tajine de poulet au citron confit et olives"
+},
+{
+"id": "l3_tajine_kefta",
+"title": "Tajine de kefta aux œufs",
+"q": "Tajine de kefta aux œufs"
+},
+{
+"id": "l3_chakchouka",
+"title": "Chakchouka",
+"q": "Chakchouka"
+},
+{
+"id": "l3_paella",
+"title": "Paella poulet, chorizo et crevettes",
+"q": "Paella poulet"
+},
+{
+"id": "l3_tzatziki",
+"title": "Tzatziki",
+"q": "Tzatziki"
+},
+{
+"id": "l3_raita",
+"title": "Raïta concombre-menthe",
+"q": "Raïta concombre-menthe"
+},
+{
+"id": "l3_salsa",
+"title": "Salsa fresca",
+"q": "Salsa fresca"
+},
+{
+"id": "l3_pho",
+"title": "Pho au bœuf",
+"q": "Pho au bœuf"
+},
+{
+"id": "l3_porc_caramel",
+"title": "Porc au caramel",
+"q": "Porc au caramel"
+},
+{
+"id": "l3_minestrone",
+"title": "Minestrone",
+"q": "Minestrone"
+},
+{
+"id": "l3_mafe",
+"title": "Mafé de bœuf",
+"q": "Mafé de bœuf"
+},
+{
+"id": "l3_chili_sin",
+"title": "Chili sin carne",
+"q": "Chili sin carne"
+},
+{
+"id": "l3_tortilla",
+"title": "Tortilla espagnole",
+"q": "Tortilla espagnole"
+},
+{
+"id": "l3_bobun",
+"title": "Bo bun au bœuf",
+"q": "Bo bun au bœuf"
+},
+{
+"id": "l4_tarte_fraises",
+"title": "Tarte aux fraises",
+"q": "Tarte aux fraises"
+},
+{
+"id": "l4_bourdaloue",
+"title": "Tarte Bourdaloue",
+"q": "Tarte Bourdaloue"
+},
+{
+"id": "l4_tarte_choco",
+"title": "Tarte au chocolat",
+"q": "Tarte au chocolat"
+},
+{
+"id": "l4_charlotte",
+"title": "Charlotte aux fraises",
+"q": "Charlotte aux fraises"
+},
+{
+"id": "l4_crumble",
+"title": "Crumble pommes-poires",
+"q": "Crumble pommes-poires"
+},
+{
+"id": "l4_cheesecake",
+"title": "Cheesecake new-yorkais",
+"q": "Cheesecake new-yorkais"
+},
+{
+"id": "l4_pannacotta",
+"title": "Panna cotta et coulis de framboise",
+"q": "Panna cotta"
+},
+{
+"id": "l4_pots_creme",
+"title": "Petits pots de crème au chocolat",
+"q": "Petits pots de crème au chocolat"
+},
+{
+"id": "l4_marbre",
+"title": "Marbré chocolat-vanille",
+"q": "Marbré chocolat-vanille"
+},
+{
+"id": "l4_cake_citron",
+"title": "Cake au citron glacé",
+"q": "Cake au citron"
+},
+{
+"id": "l4_muffins",
+"title": "Muffins aux myrtilles",
+"q": "Muffins aux myrtilles"
+},
+{
+"id": "l4_meringues",
+"title": "Meringues croquantes",
+"q": "Meringues"
+},
+{
+"id": "l4_sables",
+"title": "Sablés bretons",
+"q": "Sablés bretons"
+},
+{
+"id": "l4_canneles",
+"title": "Cannelés bordelais",
+"q": "Cannelés bordelais"
+},
+{
+"id": "l4_galette_rois",
+"title": "Galette des rois à la frangipane",
+"q": "Galette des rois à la frangipane"
+},
+{
+"id": "l4_churros",
+"title": "Churros au Ninja",
+"q": "Churros"
+},
+{
+"id": "l4_pain_epices",
+"title": "Pain d’épices au miel",
+"q": "Pain d’épices au miel"
+},
+{
+"id": "l4_sorbet_mangue",
+"title": "Sorbet minute à la mangue",
+"q": "Sorbet à la mangue"
+},
+{
+"id": "l4_poires_vin",
+"title": "Poires au vin rouge épicé",
+"q": "Poires au vin rouge épicé"
+},
+{
+"id": "l4_gateau_basque",
+"title": "Gâteau basque à la cerise noire",
+"q": "Gâteau basque à la cerise noire"
+},
+{
+"id": "l4_baguettes",
+"title": "Baguettes maison",
+"q": "Baguettes"
+},
+{
+"id": "l4_pain_complet",
+"title": "Pain complet",
+"q": "Pain complet"
+},
+{
+"id": "l4_focaccia",
+"title": "Focaccia romarin et fleur de sel",
+"q": "Focaccia romarin et fleur de sel"
+},
+{
+"id": "l4_fougasse",
+"title": "Fougasse aux olives et lardons",
+"q": "Fougasse aux olives et lardons"
+},
+{
+"id": "l4_buns",
+"title": "Buns à burger briochés",
+"q": "Buns à burger briochés"
+},
+{
+"id": "l4_pita",
+"title": "Pains pita",
+"q": "Pains pita"
+},
+{
+"id": "l4_pains_lait",
+"title": "Pains au lait",
+"q": "Pains au lait"
+},
+{
+"id": "l4_bagels",
+"title": "Bagels nature et sésame",
+"q": "Bagels et sésame"
+},
+{
+"id": "l4_feuilletee",
+"title": "Pâte feuilletée rapide",
+"q": "Pâte feuilletée"
+},
+{
+"id": "l4_pate_sablee",
+"title": "Pâte sablée",
+"q": "Pâte sablée"
+},
+{
+"id": "l4_pate_choux",
+"title": "Pâte à choux",
+"q": "Chou pâtisserie"
+},
+{
+"id": "l4_vinaigrette",
+"title": "Vinaigrette moutarde et miel",
+"q": "Vinaigrette moutarde et miel"
+},
+{
+"id": "l4_bearnaise",
+"title": "Sauce béarnaise",
+"q": "Sauce béarnaise"
+},
+{
+"id": "l4_sauce_tomate",
+"title": "Sauce tomate maison",
+"q": "Sauce tomate"
+},
+{
+"id": "l4_caramel",
+"title": "Caramel au beurre salé",
+"q": "Caramel au beurre salé"
+},
+{
+"id": "l4_pate_tartiner",
+"title": "Pâte à tartiner noisette-chocolat",
+"q": "Pâte à tartiner noisette-chocolat"
+},
+{
+"id": "l4_bouillon_concentre",
+"title": "Bouillon de légumes concentré",
+"q": "Bouillon de légumes"
+},
+{
+"id": "l4_the_glace",
+"title": "Thé glacé pêche-menthe",
+"q": "Thé pêche-menthe"
+},
+{
+"id": "l4_milkshake",
+"title": "Milkshake fraise-vanille",
+"q": "Milkshake fraise-vanille"
+},
+{
+"id": "l4_lait_avoine",
+"title": "Lait d’avoine",
+"q": "Lait d’avoine"
+},
+{
+"id": "l4_chai",
+"title": "Chaï latte",
+"q": "Chaï latte"
+},
+{
+"id": "l4_vin_chaud",
+"title": "Vin chaud aux épices",
+"q": "Vin chaud aux épices"
+},
+{
+"id": "l4_smoothie_vert",
+"title": "Smoothie vert épinards-kiwi",
+"q": "Smoothie vert épinards-kiwi"
+},
+{
+"id": "l4_porridge",
+"title": "Porridge pomme-cannelle",
+"q": "Porridge pomme-cannelle"
+},
+{
+"id": "l4_bircher",
+"title": "Bircher muesli",
+"q": "Bircher muesli"
+},
+{
+"id": "l4_oeufs_brouilles",
+"title": "Œufs brouillés crémeux",
+"q": "Œufs brouillés"
+},
+{
+"id": "l4_beurre_maison",
+"title": "Beurre maison et babeurre",
+"q": "Beurre"
+},
+{
+"id": "l4_bebe_carotte",
+"title": "Purée bébé de carottes",
+"q": "Purée de carottes"
+},
+{
+"id": "l4_bebe_courgette_poulet",
+"title": "Purée bébé courgette-poulet",
+"q": "Purée de courgettes"
+},
+{
+"id": "l4_bebe_poire",
+"title": "Compote bébé poire-vanille",
+"q": "Compote de poires"
+}
+]

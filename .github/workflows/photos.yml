@@ -1,0 +1,29 @@
+name: Photos libres (candidats)
+on:
+  push:
+    branches: [photos-tools]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install requests pillow
+      - name: Candidats
+        if: ${{ !hashFiles('scripts/selection.json') }}
+        run: python scripts/candidates.py
+      - name: Photos choisies
+        if: ${{ hashFiles('scripts/selection.json') != '' }}
+        run: |
+          git fetch origin photos-out --depth 1 && git checkout origin/photos-out -- cand
+          python scripts/fetch_selected.py
+      - name: Publier le résultat sur la branche photos-out
+        run: |
+          git config user.name "github-actions[bot]"; git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          mkdir -p /tmp/out && cp -r cand /tmp/out/ 2>/dev/null; cp -r img /tmp/out/ 2>/dev/null || true
+          git checkout --orphan photos-out-new && git rm -rq --cached . && git clean -fdq
+          cp -r /tmp/out/* . && git add -A && git commit -qm "Photos ($GITHUB_SHA)" && git push -f origin HEAD:photos-out
