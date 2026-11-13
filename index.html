@@ -2396,10 +2396,12 @@ const store = {
   del(k) { try { localStorage.removeItem('cf.' + k); } catch (e) {} }
 };
 
+// Signature des recettes intégrées : toute recette ajoutée ou corrigée est reprise automatiquement
+const SEED_SIG = (() => { const t = JSON.stringify(SEED_RECIPES); let h = 5381; for (let i = 0; i < t.length; i++) h = (h * 33 + t.charCodeAt(i)) | 0; return 's' + SEED_RECIPES.length + '-' + (h >>> 0).toString(36); })();
 const DEFAULT_SETTINGS = {
   onboarded: false, theme: 'auto', tm6Bowls: 2, ninja: true, microwave: true,
   keepAwake: true, sound: true, vibrate: true,
-  ai: { provider: 'gemini', apiKey: '', model: '', baseUrl: '' },
+  ai: { provider: 'none', apiKey: '', model: '', baseUrl: '' },
   img: { provider: 'none', apiKey: '', model: '', baseUrl: '', style: '' },
   hideExtraGear: false, voiceReply: true,
   deletedSeeds: []
@@ -2411,6 +2413,7 @@ const db = {
     this.settings = Object.assign({}, DEFAULT_SETTINGS, store.get('settings', {}));
     this.settings.ai = Object.assign({}, DEFAULT_SETTINGS.ai, this.settings.ai || {});
     this.settings.img = Object.assign({}, DEFAULT_SETTINGS.img, this.settings.img || {});
+    if (this.settings.ai.provider !== 'none' && AI_PROVIDERS[this.settings.ai.provider]?.key && !this.settings.ai.apiKey) this.settings.ai.provider = 'none';
     this.plan = store.get('plan', {});
     this.shop = store.get('shop', []);
     let recipes = store.get('recipes', null);
@@ -2424,12 +2427,12 @@ const db = {
         if (eq) { this.settings.tm6Bowls = eq.tm6Bowls || 2; this.settings.microwave = eq.microwave !== false; }
       } catch (e) {}
       this.recipes = recipes;
-      store.set('seed', SEED_VERSION);
+      store.set('seed', SEED_SIG);
       this.saveRecipes();
       this.saveSettings();
     } else {
       this.recipes = recipes.map(normalizeRecipe);
-      if (store.get('seed', 0) < SEED_VERSION) { this.refreshBuiltins(); this.addMissingSeeds(); store.set('seed', SEED_VERSION); }
+      if (store.get('seed', 0) !== SEED_SIG) { this.refreshBuiltins(); this.addMissingSeeds(); store.set('seed', SEED_SIG); }
     }
   },
   refreshBuiltins() {
@@ -3114,9 +3117,9 @@ function openAddMenu() {
       <button class="row-btn" onclick="closeSheet();newRecipe()"><span class="text-xl w-7">✏️</span><span class="flex-1">Créer une recette</span>${ICONS.chev}</button>
       <button class="row-btn" onclick="openImportText()"><span class="text-xl w-7">📋</span><span class="flex-1">Coller le texte d’une recette</span>${ICONS.chev}</button>
       <button class="row-btn" onclick="closeSheet();importRecipeFile()"><span class="text-xl w-7">📄</span><span class="flex-1">Importer un fichier (.json, .txt)</span>${ICONS.chev}</button>
-      <button class="row-btn" onclick="openAiGenerate()"><span class="text-xl w-7">✨</span><span class="flex-1">Générer avec l’IA${ai ? '' : ' <span class="text-muted text-[13px]">· à configurer</span>'}</span>${ICONS.chev}</button>
+      ${ai ? `<button class="row-btn" onclick="openAiGenerate()"><span class="text-xl w-7">✨</span><span class="flex-1">Générer avec l’IA</span>${ICONS.chev}</button>` : ''}
     </div>
-    <p class="footnote mt-2">Tout est enregistré sur cet appareil et fonctionne sans connexion. Seule la génération par IA a besoin d’Internet (ou d’un modèle local).</p>`
+    <p class="footnote mt-2">Tout est enregistré sur cet appareil et fonctionne sans connexion. Pour une nouvelle recette, demandez-la à Claude dans votre projet : elle arrive ici à la prochaine ouverture avec du réseau.</p>`
   });
 }
 
@@ -3700,12 +3703,6 @@ function renderSettings() {
       <button class="row-btn" onclick="askNotifications()"><span class="flex-1">Notifications des minuteurs</span><span class="text-muted text-[15px]">${notifLabel()}</span></button>
     </div>
 
-    <div class="section-label">Assistant IA (facultatif)</div>
-    <div class="group">
-      <button class="row-btn" onclick="openAiSettings()"><span class="w-7 h-7 rounded-lg bg-accent text-white p-1.5">${ICONS.sparkle}</span><span class="flex-1">Fournisseur</span><span class="text-muted text-[15px]">${esc(AI_PROVIDERS[s.ai.provider].name)}</span>${ICONS.chev}</button>
-    </div>
-    <p class="footnote">Pour générer ou convertir des recettes. Votre clé reste sur cet appareil.</p>
-
     <div class="section-label">Images</div>
     <div class="group">
       <button class="row-btn" onclick="openImgSettings()"><span class="w-7 h-7 rounded-lg bg-tm6 text-white p-1.5">${ICONS.photo}</span><span class="flex-1">Générateur d’images</span><span class="text-muted text-[15px]">${esc((IMG_PROVIDERS[s.img.provider] || IMG_PROVIDERS.none).name)}</span>${ICONS.chev}</button>
@@ -3721,6 +3718,7 @@ function renderSettings() {
       <button class="row-btn" onclick="importBackup()"><span class="flex-1">Restaurer une sauvegarde</span>${ICONS.chev}</button>
       <button class="row-btn" onclick="restoreSeeds()"><span class="flex-1">Restaurer les recettes intégrées</span>${ICONS.chev}</button>
     </div>
+    <div class="group mt-4"><button class="row-btn" onclick="openAiSettings()"><span class="flex-1">Assistant IA (avancé)</span><span class="text-muted text-[15px]">${esc(AI_PROVIDERS[s.ai.provider].name)}</span>${ICONS.chev}</button></div>
     <div class="group mt-4"><button class="row-btn text-danger" onclick="resetAll()"><span class="flex-1">Tout effacer</span></button></div>
     <p class="footnote">${db.recipes.length} recettes · ${storageUsage()} utilisés sur cet appareil.</p>
 
@@ -3793,7 +3791,7 @@ function renderOnboarding() {
   setTab(null); setTop({});
   $('#topbar').classList.add('hidden');
   const s = db.settings;
-  const dots = `<div class="flex justify-center gap-1.5 mb-6">${[0, 1, 2].map(i => `<span class="w-1.5 h-1.5 rounded-full ${i === obStep ? 'bg-fg' : 'bg-line'}"></span>`).join('')}</div>`;
+  const dots = `<div class="flex justify-center gap-1.5 mb-6">${[0, 1].map(i => `<span class="w-1.5 h-1.5 rounded-full ${i === obStep ? 'bg-fg' : 'bg-line'}"></span>`).join('')}</div>`;
   let html = '';
   if (obStep === 0) html = `
     <div class="text-center pt-6">
@@ -3808,7 +3806,7 @@ function renderOnboarding() {
          ['✈️', '100 % hors ligne', 'Tout reste sur votre appareil, sans compte ni abonnement.']]
         .map(([e, t, d]) => `<div class="row items-start py-3"><span class="text-[26px] w-9">${e}</span><div class="flex-1"><div class="font-semibold">${t}</div><div class="text-[14px] text-muted leading-snug">${d}</div></div></div>`).join('')}
     </div>`;
-  else if (obStep === 1) html = `
+  else html = `
     <h1 class="text-[28px] font-bold tracking-tight text-center">Votre équipement</h1>
     <p class="text-center text-muted mt-1">CookFlow adapte les étapes à votre cuisine.</p>
     <div class="section-label mt-4">Thermomix TM6</div>
@@ -3819,27 +3817,15 @@ function renderOnboarding() {
       <label class="row"><div class="flex-1"><div>Ninja FlexDrawer DualZone</div><div class="text-[13px] text-muted">Zone 1 / Zone 2, MegaZone, SYNC, MATCH</div></div><input type="checkbox" class="switch" ${s.ninja ? 'checked' : ''} onchange="db.settings.ninja=this.checked"></label>
       <label class="row"><span class="flex-1">Micro-ondes</span><input type="checkbox" class="switch" ${s.microwave ? 'checked' : ''} onchange="db.settings.microwave=this.checked"></label>
     </div>`;
-  else html = `
-    <h1 class="text-[28px] font-bold tracking-tight text-center">Assistant IA</h1>
-    <p class="text-center text-muted mt-1 px-4">Facultatif : pour créer une recette à partir d’une idée, ou convertir un texte collé.</p>
-    <div class="group mt-6">
-      ${Object.entries(AI_PROVIDERS).map(([k, p]) => `<button class="row-btn" onclick="db.settings.ai.provider='${k}';db.settings.ai.model='';db.settings.ai.baseUrl='';render()">
-        <div class="flex-1"><div>${esc(p.name)}</div><div class="text-[13px] text-muted">${esc(p.hint)}</div></div>
-        <span class="w-5 h-5 text-accent">${s.ai.provider === k ? ICONS.check : ''}</span></button>`).join('')}
-    </div>
-    ${aiFieldsHtml()}
-    <p class="footnote">Modifiable à tout moment dans Réglages.</p>`;
   $('#view').innerHTML = `<div class="max-w-md mx-auto pb-8" style="padding-top:calc(env(safe-area-inset-top) + 28px)">
     ${dots}${html}
     <div class="mt-8 space-y-2">
-      <button class="btn-primary w-full" onclick="obNext()">${obStep < 2 ? 'Continuer' : 'Commencer'}</button>
+      <button class="btn-primary w-full" onclick="obNext()">${obStep < 1 ? 'Continuer' : 'Commencer'}</button>
       ${obStep > 0 ? `<button class="w-full h-11 text-accent text-[17px]" onclick="obStep--;render()">Retour</button>` : ''}
     </div></div>`;
-  bindAiFields();
 }
 function obNext() {
-  if (obStep < 2) { obStep++; render(); window.scrollTo(0, 0); return; }
-  readAiFields();
+  if (obStep < 1) { obStep++; render(); window.scrollTo(0, 0); return; }
   db.settings.onboarded = true; db.saveSettings();
   $('#topbar').classList.remove('hidden');
   location.hash = '#/recettes'; render();
