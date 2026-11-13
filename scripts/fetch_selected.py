@@ -16,6 +16,7 @@ for rid, k in sel.items():
             im = im.resize((720, 540), Image.LANCZOS); im.save(f'img/{rid}.jpg', 'JPEG', quality=74, optimize=True, progressive=True)
             credits[rid] = {k2: c[k2] for k2 in ('file', 'artist', 'license', 'licenseUrl', 'page')}
             break
-        except Exception as e: print('retry', rid, e); time.sleep(2)
+        except Exception as e: print('retry', rid, e); time.sleep(8)
+    time.sleep(1.5)
     print(rid, 'ok' if rid in credits else 'FAIL', flush=True)
 json.dump(credits, open('img/credits.json', 'w'), ensure_ascii=False, indent=1)
