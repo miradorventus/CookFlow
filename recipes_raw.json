@@ -1,0 +1,4123 @@
+[
+ {
+  "id": "rec_1",
+  "title": "Poulet croustillant & purée maison",
+  "course": "plat",
+  "tags": [
+   "famille",
+   "volaille"
+  ],
+  "ing": [
+   "Filets de poulet",
+   "Pommes de terre à purée",
+   "Lait demi-écrémé",
+   "Beurre doux"
+  ]
+ },
+ {
+  "id": "rec_2",
+  "title": "Frites de patates douces & poisson pané",
+  "course": "plat",
+  "tags": [
+   "rapide",
+   "poisson"
+  ],
+  "ing": [
+   "Patates douces",
+   "Bâtonnets de poisson pané",
+   "Fécule de maïs",
+   "Huile neutre"
+  ]
+ },
+ {
+  "id": "rec_3",
+  "title": "Curry de poulet coco & riz basmati",
+  "course": "plat",
+  "tags": [
+   "volaille",
+   "monde"
+  ],
+  "ing": [
+   "Oignon",
+   "Gousses d’ail",
+   "Huile d’olive",
+   "Blanc de poulet"
+  ]
+ },
+ {
+  "id": "rec_4",
+  "title": "Saumon rôti & légumes de saison",
+  "course": "plat",
+  "tags": [
+   "poisson",
+   "léger"
+  ],
+  "ing": [
+   "Pavés de saumon",
+   "Courgettes et poivrons",
+   "Citron",
+   "Aneth"
+  ]
+ },
+ {
+  "id": "rec_5",
+  "title": "Brioche aux pépites de chocolat",
+  "course": "boulangerie",
+  "tags": [
+   "dessert",
+   "goûter"
+  ],
+  "ing": [
+   "Farine T45",
+   "Levure boulangère fraîche",
+   "Lait",
+   "Sucre"
+  ]
+ },
+ {
+  "id": "rec_6",
+  "title": "Velouté de potimarron & croûtons",
+  "course": "soupe",
+  "tags": [
+   "soupe",
+   "végétarien",
+   "automne"
+  ],
+  "ing": [
+   "Potimarron en cubes",
+   "Bouillon de légumes",
+   "Crème liquide",
+   "Pain rassis en dés"
+  ]
+ },
+ {
+  "id": "rec_7",
+  "title": "Nuggets maison & wedges épicées",
+  "course": "plat",
+  "tags": [
+   "famille",
+   "volaille"
+  ],
+  "ing": [
+   "Filets de poulet hachés",
+   "Pommes de terre",
+   "Farine",
+   "Œufs"
+  ]
+ },
+ {
+  "id": "rec_8",
+  "title": "Gratin dauphinois & magret de canard",
+  "course": "plat",
+  "tags": [
+   "fête"
+  ],
+  "ing": [
+   "Pommes de terre",
+   "Magrets de canard",
+   "Crème liquide et lait",
+   "Gousse d’ail"
+  ]
+ },
+ {
+  "id": "rec_9",
+  "title": "Risotto crémeux aux champignons",
+  "course": "plat",
+  "tags": [
+   "végétarien",
+   "italien"
+  ],
+  "ing": [
+   "Parmesan",
+   "Oignon",
+   "Huile d’olive",
+   "Riz arborio"
+  ]
+ },
+ {
+  "id": "rec_10",
+  "title": "Pâte à crêpes",
+  "course": "dessert",
+  "tags": [
+   "dessert",
+   "goûter",
+   "rapide"
+  ],
+  "ing": [
+   "Farine T45",
+   "Œufs",
+   "Lait",
+   "Beurre fondu"
+  ]
+ },
+ {
+  "id": "rec_11",
+  "title": "Béchamel express",
+  "course": "sauce",
+  "tags": [
+   "sauce",
+   "base"
+  ],
+  "ing": [
+   "Lait",
+   "Farine",
+   "Beurre",
+   "Sel, poivre, muscade"
+  ]
+ },
+ {
+  "id": "rec_12",
+  "title": "Houmous citronné",
+  "course": "aperitif",
+  "tags": [
+   "apéritif",
+   "végétarien"
+  ],
+  "ing": [
+   "Pois chiches égouttés",
+   "Tahini",
+   "Jus de citron",
+   "Gousse d’ail"
+  ]
+ },
+ {
+  "id": "rec_13",
+  "title": "Compote pommes-cannelle",
+  "course": "dessert",
+  "tags": [
+   "dessert",
+   "enfants"
+  ],
+  "ing": [
+   "Pommes",
+   "Eau",
+   "Sucre",
+   "Cannelle"
+  ]
+ },
+ {
+  "id": "rec_14",
+  "title": "Poulet rôti & pommes grenaille",
+  "course": "plat",
+  "tags": [
+   "dimanche",
+   "volaille"
+  ],
+  "ing": [
+   "Poulet entier (1,4 kg)",
+   "Pommes de terre grenaille",
+   "Beurre mou",
+   "Thym, ail, sel, poivre"
+  ]
+ },
+ {
+  "id": "rec_15",
+  "title": "Cookies au chocolat",
+  "course": "dessert",
+  "tags": [
+   "dessert",
+   "goûter"
+  ],
+  "ing": [
+   "Beurre mou",
+   "Sucre roux",
+   "Œuf",
+   "Farine"
+  ]
+ },
+ {
+  "id": "rec_16",
+  "title": "Légumes rôtis, pois chiches & feta",
+  "course": "plat",
+  "tags": [
+   "végétarien",
+   "léger"
+  ],
+  "ing": [
+   "Poivrons",
+   "Courgette",
+   "Oignon rouge",
+   "Pois chiches égouttés"
+  ]
+ },
+ {
+  "id": "rec_17",
+  "title": "Soupe de lentilles corail",
+  "course": "soupe",
+  "tags": [
+   "soupe",
+   "végétarien"
+  ],
+  "ing": [
+   "Oignon",
+   "Carotte",
+   "Huile d’olive",
+   "Lentilles corail"
+  ]
+ },
+ {
+  "id": "fr_daube",
+  "title": "Daube provençale",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "mijoté",
+   "bœuf"
+  ],
+  "ing": [
+   "Bœuf à braiser (paleron, joue)",
+   "Oignons",
+   "Carottes",
+   "Gousses d’ail"
+  ]
+ },
+ {
+  "id": "fr_bourguignon",
+  "title": "Bœuf bourguignon",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "mijoté",
+   "bœuf"
+  ],
+  "ing": [
+   "Bœuf à bourguignon",
+   "Oignons",
+   "Gousses d’ail",
+   "Carottes"
+  ]
+ },
+ {
+  "id": "fr_blanquette",
+  "title": "Blanquette de veau",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "mijoté",
+   "veau"
+  ],
+  "ing": [
+   "Épaule de veau en morceaux",
+   "Carottes",
+   "Oignon piqué d’un clou de girofle",
+   "Bouillon de volaille"
+  ]
+ },
+ {
+  "id": "fr_ratatouille",
+  "title": "Ratatouille",
+  "course": "accomp",
+  "tags": [
+   "classique",
+   "végétarien",
+   "été"
+  ],
+  "ing": [
+   "Aubergine",
+   "Courgettes",
+   "Poivrons rouge et jaune",
+   "Oignon"
+  ]
+ },
+ {
+  "id": "fr_quiche",
+  "title": "Quiche lorraine",
+  "course": "entree",
+  "tags": [
+   "classique",
+   "tarte"
+  ],
+  "ing": [
+   "Farine",
+   "Beurre froid",
+   "Eau froide",
+   "Lardons fumés"
+  ]
+ },
+ {
+  "id": "fr_parmentier",
+  "title": "Hachis parmentier",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "famille",
+   "bœuf"
+  ],
+  "ing": [
+   "Pommes de terre",
+   "Lait",
+   "Beurre",
+   "Bœuf haché"
+  ]
+ },
+ {
+  "id": "fr_basquaise",
+  "title": "Poulet basquaise",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "volaille",
+   "mijoté"
+  ],
+  "ing": [
+   "Hauts de cuisse de poulet désossés",
+   "Poivrons",
+   "Oignon",
+   "Gousses d’ail"
+  ]
+ },
+ {
+  "id": "fr_oignon",
+  "title": "Soupe à l’oignon gratinée",
+  "course": "soupe",
+  "tags": [
+   "classique",
+   "soupe",
+   "hiver"
+  ],
+  "ing": [
+   "Oignons jaunes",
+   "Beurre",
+   "Farine",
+   "Vin blanc sec"
+  ]
+ },
+ {
+  "id": "fr_croque",
+  "title": "Croque-monsieur",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "rapide"
+  ],
+  "ing": [
+   "Pain de mie",
+   "Jambon blanc",
+   "Emmental râpé",
+   "Béchamel ou crème épaisse"
+  ]
+ },
+ {
+  "id": "fr_mousse",
+  "title": "Mousse au chocolat",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "dessert"
+  ],
+  "ing": [
+   "Chocolat noir",
+   "Beurre",
+   "Œufs",
+   "Sucre"
+  ]
+ },
+ {
+  "id": "fr_clafoutis",
+  "title": "Clafoutis aux cerises",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "dessert",
+   "été"
+  ],
+  "ing": [
+   "Cerises",
+   "Œufs",
+   "Sucre",
+   "Farine"
+  ]
+ },
+ {
+  "id": "w_bolo",
+  "title": "Spaghetti bolognaise",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "italien",
+   "famille"
+  ],
+  "ing": [
+   "Oignon",
+   "Carotte",
+   "Branche de céleri",
+   "Gousses d’ail"
+  ]
+ },
+ {
+  "id": "w_carbo",
+  "title": "Pâtes carbonara",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "italien",
+   "rapide"
+  ],
+  "ing": [
+   "Spaghetti ou rigatoni",
+   "Guanciale ou pancetta",
+   "Jaunes d’œufs",
+   "Œuf entier"
+  ]
+ },
+ {
+  "id": "w_chili",
+  "title": "Chili con carne",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "mexicain",
+   "bœuf"
+  ],
+  "ing": [
+   "Oignon",
+   "Gousses d’ail",
+   "Poivron rouge",
+   "Huile"
+  ]
+ },
+ {
+  "id": "w_butter",
+  "title": "Butter chicken",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "indien",
+   "volaille"
+  ],
+  "ing": [
+   "Hauts de cuisse de poulet",
+   "Yaourt nature",
+   "Garam masala",
+   "Oignon"
+  ]
+ },
+ {
+  "id": "w_lasagnes",
+  "title": "Lasagnes",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "italien",
+   "famille"
+  ],
+  "ing": [
+   "Sauce bolognaise (recette CookFlow)",
+   "Lait",
+   "Farine",
+   "Beurre"
+  ]
+ },
+ {
+  "id": "w_pizza",
+  "title": "Pizza maison",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "italien"
+  ],
+  "ing": [
+   "Eau tiède",
+   "Levure boulangère sèche",
+   "Farine T55",
+   "Huile d’olive"
+  ]
+ },
+ {
+  "id": "w_falafel",
+  "title": "Falafels",
+  "course": "entree",
+  "tags": [
+   "monde",
+   "végétarien",
+   "libanais"
+  ],
+  "ing": [
+   "Pois chiches secs trempés 12 h",
+   "Oignon",
+   "Gousses d’ail",
+   "Persil et coriandre"
+  ]
+ },
+ {
+  "id": "w_guac",
+  "title": "Guacamole",
+  "course": "aperitif",
+  "tags": [
+   "monde",
+   "mexicain",
+   "apéritif"
+  ],
+  "ing": [
+   "Avocats mûrs",
+   "Oignon rouge",
+   "Coriandre",
+   "Citron vert"
+  ]
+ },
+ {
+  "id": "w_gaspacho",
+  "title": "Gaspacho",
+  "course": "soupe",
+  "tags": [
+   "monde",
+   "espagnol",
+   "été",
+   "végétarien"
+  ],
+  "ing": [
+   "Tomates mûres",
+   "Concombre",
+   "Poivron rouge",
+   "Gousse d’ail"
+  ]
+ },
+ {
+  "id": "w_pancakes",
+  "title": "Pancakes",
+  "course": "petitdej",
+  "tags": [
+   "monde",
+   "américain",
+   "petit-déjeuner"
+  ],
+  "ing": [
+   "Farine",
+   "Lait",
+   "Œufs",
+   "Sucre"
+  ]
+ },
+ {
+  "id": "w_wings",
+  "title": "Ailes de poulet barbecue",
+  "course": "aperitif",
+  "tags": [
+   "monde",
+   "américain",
+   "volaille"
+  ],
+  "ing": [
+   "Ailes de poulet",
+   "Levure chimique",
+   "Paprika, ail, sel",
+   "Sauce barbecue"
+  ]
+ },
+ {
+  "id": "w_tiramisu",
+  "title": "Tiramisu",
+  "course": "dessert",
+  "tags": [
+   "monde",
+   "italien",
+   "dessert"
+  ],
+  "ing": [
+   "Œufs",
+   "Sucre",
+   "Mascarpone",
+   "Biscuits à la cuillère"
+  ]
+ },
+ {
+  "id": "w_naan",
+  "title": "Naans au fromage",
+  "course": "boulangerie",
+  "tags": [
+   "monde",
+   "indien",
+   "pain"
+  ],
+  "ing": [
+   "Farine",
+   "Yaourt nature",
+   "Eau tiède",
+   "Levure boulangère sèche"
+  ]
+ },
+ {
+  "id": "p_taboule",
+  "title": "Taboulé libanais",
+  "course": "entree",
+  "tags": [
+   "monde",
+   "végétarien",
+   "été"
+  ],
+  "ing": [
+   "Persil plat",
+   "Menthe",
+   "Boulgour fin",
+   "Tomates"
+  ]
+ },
+ {
+  "id": "p_rillettes",
+  "title": "Rillettes de thon",
+  "course": "entree",
+  "tags": [
+   "apéritif",
+   "poisson",
+   "rapide"
+  ],
+  "ing": [
+   "Thon au naturel égoutté",
+   "Fromage frais",
+   "Échalote",
+   "Jus de citron"
+  ]
+ },
+ {
+  "id": "p_oeufs_cocotte",
+  "title": "Œufs cocotte crème et ciboulette",
+  "course": "entree",
+  "tags": [
+   "classique",
+   "rapide"
+  ],
+  "ing": [
+   "Œufs",
+   "Crème fraîche épaisse",
+   "Ciboulette",
+   "Beurre"
+  ]
+ },
+ {
+  "id": "p_samoussas",
+  "title": "Samoussas de légumes",
+  "course": "entree",
+  "tags": [
+   "monde",
+   "indien",
+   "végétarien"
+  ],
+  "ing": [
+   "Pommes de terre",
+   "Petits pois",
+   "Oignon",
+   "Curry"
+  ]
+ },
+ {
+  "id": "p_carottes",
+  "title": "Carottes râpées au cumin",
+  "course": "entree",
+  "tags": [
+   "classique",
+   "végétarien",
+   "rapide"
+  ],
+  "ing": [
+   "Carottes",
+   "Jus d’orange",
+   "Huile d’olive",
+   "Vinaigre de cidre"
+  ]
+ },
+ {
+  "id": "p_veloute_poireaux",
+  "title": "Velouté poireaux-pommes de terre",
+  "course": "soupe",
+  "tags": [
+   "classique",
+   "soupe",
+   "hiver"
+  ],
+  "ing": [
+   "Poireaux",
+   "Pommes de terre",
+   "Beurre",
+   "Eau"
+  ]
+ },
+ {
+  "id": "p_petitspois",
+  "title": "Crème de petits pois à la menthe",
+  "course": "soupe",
+  "tags": [
+   "soupe",
+   "végétarien",
+   "printemps"
+  ],
+  "ing": [
+   "Petits pois surgelés",
+   "Oignon",
+   "Bouillon de légumes",
+   "Menthe"
+  ]
+ },
+ {
+  "id": "p_varoma_saumon",
+  "title": "Repas complet vapeur : saumon, légumes et riz",
+  "course": "plat",
+  "tags": [
+   "varoma",
+   "poisson",
+   "léger"
+  ],
+  "ing": [
+   "Riz",
+   "Eau",
+   "Pavés de saumon",
+   "Brocoli"
+  ]
+ },
+ {
+  "id": "p_varoma_poulet",
+  "title": "Poulet vapeur, pommes de terre et sauce curry",
+  "course": "plat",
+  "tags": [
+   "varoma",
+   "volaille",
+   "léger"
+  ],
+  "ing": [
+   "Blancs de poulet",
+   "Pommes de terre",
+   "Courgettes",
+   "Eau"
+  ]
+ },
+ {
+  "id": "p_riz",
+  "title": "Riz blanc au panier",
+  "course": "accomp",
+  "tags": [
+   "base",
+   "panier"
+  ],
+  "ing": [
+   "Riz basmati",
+   "Eau",
+   "Sel"
+  ]
+ },
+ {
+  "id": "p_legumes_vapeur",
+  "title": "Légumes vapeur et beurre citronné",
+  "course": "accomp",
+  "tags": [
+   "varoma",
+   "végétarien",
+   "léger"
+  ],
+  "ing": [
+   "Légumes de saison",
+   "Eau",
+   "Beurre",
+   "Citron"
+  ]
+ },
+ {
+  "id": "p_frites",
+  "title": "Frites maison",
+  "course": "accomp",
+  "tags": [
+   "famille",
+   "rapide"
+  ],
+  "ing": [
+   "Pommes de terre",
+   "Huile",
+   "Sel"
+  ]
+ },
+ {
+  "id": "p_choufleur",
+  "title": "Gratin de chou-fleur",
+  "course": "accomp",
+  "tags": [
+   "classique",
+   "végétarien",
+   "varoma"
+  ],
+  "ing": [
+   "Chou-fleur",
+   "Eau",
+   "Lait",
+   "Farine"
+  ]
+ },
+ {
+  "id": "p_puree_douce",
+  "title": "Purée de patates douces",
+  "course": "accomp",
+  "tags": [
+   "végétarien"
+  ],
+  "ing": [
+   "Patates douces",
+   "Eau",
+   "Beurre",
+   "Lait de coco"
+  ]
+ },
+ {
+  "id": "p_mayo",
+  "title": "Mayonnaise inratable",
+  "course": "sauce",
+  "tags": [
+   "base",
+   "sauce",
+   "classique"
+  ],
+  "ing": [
+   "Jaune d’œuf",
+   "Moutarde",
+   "Vinaigre",
+   "Huile neutre"
+  ]
+ },
+ {
+  "id": "p_pesto",
+  "title": "Pesto au basilic",
+  "course": "sauce",
+  "tags": [
+   "base",
+   "sauce",
+   "italien",
+   "monde"
+  ],
+  "ing": [
+   "Parmesan",
+   "Pignons de pin",
+   "Gousse d’ail",
+   "Basilic"
+  ]
+ },
+ {
+  "id": "p_hollandaise",
+  "title": "Sauce hollandaise",
+  "course": "sauce",
+  "tags": [
+   "base",
+   "sauce",
+   "classique"
+  ],
+  "ing": [
+   "Jaunes d’œufs",
+   "Beurre",
+   "Jus de citron",
+   "Eau"
+  ]
+ },
+ {
+  "id": "p_brisee",
+  "title": "Pâte brisée",
+  "course": "sauce",
+  "tags": [
+   "base",
+   "pâtisserie"
+  ],
+  "ing": [
+   "Farine",
+   "Beurre froid",
+   "Eau froide",
+   "Sel"
+  ]
+ },
+ {
+  "id": "p_pain",
+  "title": "Pain de campagne",
+  "course": "boulangerie",
+  "tags": [
+   "base",
+   "pain",
+   "classique"
+  ],
+  "ing": [
+   "Eau tiède",
+   "Levure sèche",
+   "Farine T65",
+   "Farine de seigle"
+  ]
+ },
+ {
+  "id": "p_painmie",
+  "title": "Pain de mie moelleux",
+  "course": "boulangerie",
+  "tags": [
+   "pain",
+   "petit-déjeuner"
+  ],
+  "ing": [
+   "Lait tiède",
+   "Levure sèche",
+   "Sucre",
+   "Farine T45"
+  ]
+ },
+ {
+  "id": "p_creme_anglaise",
+  "title": "Crème anglaise",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "dessert",
+   "base"
+  ],
+  "ing": [
+   "Lait entier",
+   "Jaunes d’œufs",
+   "Sucre",
+   "Vanille"
+  ]
+ },
+ {
+  "id": "p_creme_brulee",
+  "title": "Crème brûlée",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "dessert"
+  ],
+  "ing": [
+   "Crème liquide entière",
+   "Jaunes d’œufs",
+   "Sucre",
+   "Vanille"
+  ]
+ },
+ {
+  "id": "p_fondant",
+  "title": "Fondant au chocolat",
+  "course": "dessert",
+  "tags": [
+   "dessert",
+   "chocolat"
+  ],
+  "ing": [
+   "Chocolat noir",
+   "Beurre",
+   "Sucre",
+   "Œufs"
+  ]
+ },
+ {
+  "id": "p_tarte_pommes",
+  "title": "Tarte aux pommes",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "dessert"
+  ],
+  "ing": [
+   "Pâte brisée (recette CookFlow)",
+   "Pommes",
+   "Sucre",
+   "Beurre"
+  ]
+ },
+ {
+  "id": "p_sorbet",
+  "title": "Sorbet minute aux fruits rouges",
+  "course": "dessert",
+  "tags": [
+   "dessert",
+   "été",
+   "rapide"
+  ],
+  "ing": [
+   "Sucre",
+   "Fruits rouges surgelés",
+   "Blanc d’œuf ou jus de citron"
+  ]
+ },
+ {
+  "id": "p_rizaulait",
+  "title": "Riz au lait vanillé",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "dessert"
+  ],
+  "ing": [
+   "Lait entier",
+   "Riz rond",
+   "Sucre",
+   "Vanille"
+  ]
+ },
+ {
+  "id": "p_patissiere",
+  "title": "Crème pâtissière",
+  "course": "sauce",
+  "tags": [
+   "base",
+   "pâtisserie"
+  ],
+  "ing": [
+   "Lait",
+   "Œufs",
+   "Sucre",
+   "Maïzena"
+  ]
+ },
+ {
+  "id": "p_pommes_four",
+  "title": "Pommes rôties cannelle-miel",
+  "course": "dessert",
+  "tags": [
+   "dessert",
+   "automne"
+  ],
+  "ing": [
+   "Pommes",
+   "Miel",
+   "Beurre",
+   "Cannelle"
+  ]
+ },
+ {
+  "id": "p_brownie",
+  "title": "Brownie aux noix",
+  "course": "dessert",
+  "tags": [
+   "dessert",
+   "chocolat",
+   "américain",
+   "monde"
+  ],
+  "ing": [
+   "Chocolat noir",
+   "Beurre",
+   "Sucre",
+   "Œufs"
+  ]
+ },
+ {
+  "id": "p_bananabread",
+  "title": "Banana bread",
+  "course": "dessert",
+  "tags": [
+   "dessert",
+   "goûter",
+   "américain",
+   "monde"
+  ],
+  "ing": [
+   "Bananes mûres",
+   "Beurre fondu",
+   "Sucre roux",
+   "Œufs"
+  ]
+ },
+ {
+  "id": "p_tapenade",
+  "title": "Tapenade noire",
+  "course": "aperitif",
+  "tags": [
+   "classique",
+   "apéritif"
+  ],
+  "ing": [
+   "Olives noires dénoyautées",
+   "Câpres",
+   "Filets d’anchois",
+   "Gousse d’ail"
+  ]
+ },
+ {
+  "id": "p_gougeres",
+  "title": "Gougères au comté",
+  "course": "aperitif",
+  "tags": [
+   "classique",
+   "apéritif"
+  ],
+  "ing": [
+   "Eau",
+   "Lait",
+   "Beurre",
+   "Farine"
+  ]
+ },
+ {
+  "id": "p_poischiches",
+  "title": "Pois chiches croustillants",
+  "course": "aperitif",
+  "tags": [
+   "apéritif",
+   "végétarien"
+  ],
+  "ing": [
+   "Pois chiches égouttés",
+   "Huile d’olive",
+   "Paprika fumé",
+   "Sel"
+  ]
+ },
+ {
+  "id": "p_chips_pomme",
+  "title": "Chips de pommes déshydratées",
+  "course": "aperitif",
+  "tags": [
+   "goûter",
+   "enfants"
+  ],
+  "ing": [
+   "Pommes",
+   "Cannelle"
+  ]
+ },
+ {
+  "id": "p_granola",
+  "title": "Granola maison",
+  "course": "petitdej",
+  "tags": [
+   "petit-déjeuner"
+  ],
+  "ing": [
+   "Flocons d’avoine",
+   "Noix et amandes",
+   "Miel",
+   "Huile de coco"
+  ]
+ },
+ {
+  "id": "p_yaourts",
+  "title": "Yaourts maison",
+  "course": "petitdej",
+  "tags": [
+   "petit-déjeuner",
+   "base"
+  ],
+  "ing": [
+   "Lait entier",
+   "Yaourt nature"
+  ]
+ },
+ {
+  "id": "p_confiture",
+  "title": "Confiture de fraises",
+  "course": "petitdej",
+  "tags": [
+   "petit-déjeuner",
+   "conserve"
+  ],
+  "ing": [
+   "Fraises",
+   "Sucre",
+   "Jus de citron"
+  ]
+ },
+ {
+  "id": "p_smoothie",
+  "title": "Smoothie banane-fruits rouges",
+  "course": "boisson",
+  "tags": [
+   "boisson",
+   "rapide"
+  ],
+  "ing": [
+   "Banane",
+   "Fruits rouges surgelés",
+   "Yaourt",
+   "Lait"
+  ]
+ },
+ {
+  "id": "p_chocochaud",
+  "title": "Chocolat chaud à l’ancienne",
+  "course": "boisson",
+  "tags": [
+   "boisson",
+   "hiver"
+  ],
+  "ing": [
+   "Chocolat noir",
+   "Lait entier",
+   "Sucre"
+  ]
+ },
+ {
+  "id": "p_amande",
+  "title": "Lait d’amande",
+  "course": "boisson",
+  "tags": [
+   "boisson",
+   "végétarien",
+   "base"
+  ],
+  "ing": [
+   "Amandes trempées 8 h",
+   "Eau froide",
+   "Sirop d’agave"
+  ]
+ },
+ {
+  "id": "p_citronnade",
+  "title": "Citronnade maison",
+  "course": "boisson",
+  "tags": [
+   "boisson",
+   "été"
+  ],
+  "ing": [
+   "Citrons non traités",
+   "Sucre",
+   "Eau froide"
+  ]
+ },
+ {
+  "id": "f_coqauvin",
+  "title": "Coq au vin",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "mijoté",
+   "volaille"
+  ],
+  "ing": [
+   "Cuisses de poulet",
+   "Lardons",
+   "Oignons",
+   "Gousses d’ail"
+  ]
+ },
+ {
+  "id": "f_pouletcreme",
+  "title": "Poulet à la crème et aux champignons",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "volaille",
+   "famille"
+  ],
+  "ing": [
+   "Blancs de poulet",
+   "Échalotes",
+   "Champignons",
+   "Vin blanc"
+  ]
+ },
+ {
+  "id": "f_navarin",
+  "title": "Navarin d’agneau printanier",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "mijoté",
+   "agneau",
+   "printemps"
+  ],
+  "ing": [
+   "Épaule d’agneau en morceaux",
+   "Oignon",
+   "Concentré de tomate",
+   "Bouillon"
+  ]
+ },
+ {
+  "id": "f_marengo",
+  "title": "Sauté de veau Marengo",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "mijoté",
+   "veau"
+  ],
+  "ing": [
+   "Sauté de veau",
+   "Oignon",
+   "Gousses d’ail",
+   "Tomates concassées"
+  ]
+ },
+ {
+  "id": "f_petitsale",
+  "title": "Petit salé aux lentilles",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "porc",
+   "hiver"
+  ],
+  "ing": [
+   "Lentilles vertes",
+   "Petit salé ou palette",
+   "Saucisses de Morteau",
+   "Oignon"
+  ]
+ },
+ {
+  "id": "f_cassoulet",
+  "title": "Cassoulet express",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "hiver"
+  ],
+  "ing": [
+   "Haricots blancs cuits",
+   "Saucisses de Toulouse",
+   "Cuisses de canard confites",
+   "Oignon"
+  ]
+ },
+ {
+  "id": "f_tartiflette",
+  "title": "Tartiflette",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "hiver",
+   "fromage"
+  ],
+  "ing": [
+   "Pommes de terre",
+   "Reblochon",
+   "Lardons",
+   "Oignons"
+  ]
+ },
+ {
+  "id": "f_endives",
+  "title": "Endives au jambon",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "hiver"
+  ],
+  "ing": [
+   "Endives",
+   "Jambon blanc",
+   "Lait",
+   "Farine"
+  ]
+ },
+ {
+  "id": "f_brandade",
+  "title": "Brandade de morue",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "poisson"
+  ],
+  "ing": [
+   "Morue dessalée",
+   "Pommes de terre",
+   "Lait",
+   "Gousses d’ail"
+  ]
+ },
+ {
+  "id": "f_moules",
+  "title": "Moules marinières",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "fruits de mer",
+   "varoma"
+  ],
+  "ing": [
+   "Moules",
+   "Échalotes",
+   "Vin blanc",
+   "Beurre"
+  ]
+ },
+ {
+  "id": "f_lapin",
+  "title": "Lapin à la moutarde",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "mijoté"
+  ],
+  "ing": [
+   "Lapin en morceaux",
+   "Échalotes",
+   "Moutarde à l’ancienne",
+   "Vin blanc"
+  ]
+ },
+ {
+  "id": "f_boeufcarottes",
+  "title": "Bœuf carottes",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "mijoté",
+   "bœuf"
+  ],
+  "ing": [
+   "Paleron",
+   "Carottes",
+   "Oignons",
+   "Vin blanc"
+  ]
+ },
+ {
+  "id": "f_macaroni",
+  "title": "Gratin de macaronis",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "famille"
+  ],
+  "ing": [
+   "Macaronis",
+   "Lait",
+   "Farine",
+   "Beurre"
+  ]
+ },
+ {
+  "id": "f_flammekueche",
+  "title": "Tarte flambée",
+  "course": "plat",
+  "tags": [
+   "classique"
+  ],
+  "ing": [
+   "Farine",
+   "Eau",
+   "Huile",
+   "Fromage blanc"
+  ]
+ },
+ {
+  "id": "f_pissaladiere",
+  "title": "Pissaladière",
+  "course": "entree",
+  "tags": [
+   "classique",
+   "apéritif"
+  ],
+  "ing": [
+   "Pâte à pain",
+   "Oignons",
+   "Huile d’olive",
+   "Anchois"
+  ]
+ },
+ {
+  "id": "f_pistou",
+  "title": "Soupe au pistou",
+  "course": "soupe",
+  "tags": [
+   "classique",
+   "soupe",
+   "été",
+   "végétarien"
+  ],
+  "ing": [
+   "Courgette",
+   "Haricots verts",
+   "Haricots blancs cuits",
+   "Carotte"
+  ]
+ },
+ {
+  "id": "f_bouillabaisse",
+  "title": "Soupe de poisson façon bouillabaisse",
+  "course": "soupe",
+  "tags": [
+   "classique",
+   "poisson",
+   "soupe"
+  ],
+  "ing": [
+   "Filets de poissons blancs",
+   "Oignon",
+   "Fenouil",
+   "Tomates"
+  ]
+ },
+ {
+  "id": "f_poireaux",
+  "title": "Poireaux vinaigrette",
+  "course": "entree",
+  "tags": [
+   "classique",
+   "varoma",
+   "végétarien"
+  ],
+  "ing": [
+   "Poireaux",
+   "Œufs",
+   "Eau",
+   "Moutarde"
+  ]
+ },
+ {
+  "id": "f_mimosa",
+  "title": "Œufs mimosa",
+  "course": "entree",
+  "tags": [
+   "classique",
+   "apéritif",
+   "varoma"
+  ],
+  "ing": [
+   "Œufs",
+   "Eau",
+   "Mayonnaise",
+   "Ciboulette"
+  ]
+ },
+ {
+  "id": "f_celeri",
+  "title": "Céleri rémoulade",
+  "course": "entree",
+  "tags": [
+   "classique",
+   "végétarien",
+   "rapide"
+  ],
+  "ing": [
+   "Céleri-rave",
+   "Mayonnaise",
+   "Moutarde",
+   "Jus de citron"
+  ]
+ },
+ {
+  "id": "f_nicoise",
+  "title": "Salade niçoise",
+  "course": "entree",
+  "tags": [
+   "classique",
+   "été"
+  ],
+  "ing": [
+   "Tomates",
+   "Œufs",
+   "Thon",
+   "Poivron"
+  ]
+ },
+ {
+  "id": "f_souffle",
+  "title": "Soufflé au fromage",
+  "course": "entree",
+  "tags": [
+   "classique",
+   "fromage"
+  ],
+  "ing": [
+   "Lait",
+   "Farine",
+   "Beurre",
+   "Œufs"
+  ]
+ },
+ {
+  "id": "f_galettes",
+  "title": "Galettes de sarrasin complètes",
+  "course": "plat",
+  "tags": [
+   "classique"
+  ],
+  "ing": [
+   "Farine de sarrasin",
+   "Eau",
+   "Œuf",
+   "Sel"
+  ]
+ },
+ {
+  "id": "f_far",
+  "title": "Far breton aux pruneaux",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "dessert"
+  ],
+  "ing": [
+   "Lait",
+   "Œufs",
+   "Sucre",
+   "Farine"
+  ]
+ },
+ {
+  "id": "f_flan",
+  "title": "Flan pâtissier",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "dessert"
+  ],
+  "ing": [
+   "Pâte brisée",
+   "Lait",
+   "Crème",
+   "Œufs"
+  ]
+ },
+ {
+  "id": "f_tartecitron",
+  "title": "Tarte au citron meringuée",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "dessert"
+  ],
+  "ing": [
+   "Pâte sablée",
+   "Citrons",
+   "Sucre",
+   "Œufs"
+  ]
+ },
+ {
+  "id": "f_ileflottante",
+  "title": "Îles flottantes",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "dessert",
+   "varoma"
+  ],
+  "ing": [
+   "Lait",
+   "Œufs",
+   "Sucre",
+   "Vanille"
+  ]
+ },
+ {
+  "id": "f_profiteroles",
+  "title": "Profiteroles",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "dessert"
+  ],
+  "ing": [
+   "Eau",
+   "Lait",
+   "Beurre",
+   "Farine"
+  ]
+ },
+ {
+  "id": "f_madeleines",
+  "title": "Madeleines à bosse",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "goûter"
+  ],
+  "ing": [
+   "Œufs",
+   "Sucre",
+   "Farine",
+   "Levure chimique"
+  ]
+ },
+ {
+  "id": "f_financiers",
+  "title": "Financiers aux amandes",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "goûter"
+  ],
+  "ing": [
+   "Beurre",
+   "Blancs d’œufs",
+   "Sucre glace",
+   "Poudre d’amandes"
+  ]
+ },
+ {
+  "id": "f_caramel",
+  "title": "Crème caramel",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "dessert"
+  ],
+  "ing": [
+   "Sucre (caramel)",
+   "Lait",
+   "Œufs",
+   "Sucre"
+  ]
+ },
+ {
+  "id": "f_belleh",
+  "title": "Poires Belle-Hélène",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "dessert",
+   "varoma"
+  ],
+  "ing": [
+   "Poires",
+   "Eau",
+   "Sucre",
+   "Chocolat noir"
+  ]
+ },
+ {
+  "id": "f_tatin",
+  "title": "Tarte Tatin",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "dessert"
+  ],
+  "ing": [
+   "Pommes",
+   "Sucre",
+   "Beurre",
+   "Pâte brisée"
+  ]
+ },
+ {
+  "id": "f_yaourt",
+  "title": "Gâteau au yaourt",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "goûter",
+   "enfants"
+  ],
+  "ing": [
+   "Yaourt nature",
+   "Sucre",
+   "Œufs",
+   "Farine"
+  ]
+ },
+ {
+  "id": "f_quatrequarts",
+  "title": "Quatre-quarts breton",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "goûter"
+  ],
+  "ing": [
+   "Œufs",
+   "Sucre",
+   "Farine",
+   "Beurre demi-sel fondu"
+  ]
+ },
+ {
+  "id": "f_painperdu",
+  "title": "Pain perdu",
+  "course": "petitdej",
+  "tags": [
+   "classique",
+   "goûter",
+   "petit-déjeuner"
+  ],
+  "ing": [
+   "Brioche ou pain rassis",
+   "Lait",
+   "Œufs",
+   "Sucre"
+  ]
+ },
+ {
+  "id": "f_gaufres",
+  "title": "Gaufres",
+  "course": "petitdej",
+  "tags": [
+   "classique",
+   "goûter",
+   "petit-déjeuner"
+  ],
+  "ing": [
+   "Farine",
+   "Lait",
+   "Œufs",
+   "Beurre fondu"
+  ]
+ },
+ {
+  "id": "f_hachis_canard",
+  "title": "Parmentier de canard",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "fête"
+  ],
+  "ing": [
+   "Cuisses de canard confites",
+   "Pommes de terre",
+   "Lait",
+   "Échalotes"
+  ]
+ },
+ {
+  "id": "f_saucisses",
+  "title": "Saucisses, purée et sauce oignons",
+  "course": "plat",
+  "tags": [
+   "famille",
+   "rapide"
+  ],
+  "ing": [
+   "Saucisses",
+   "Pommes de terre",
+   "Lait",
+   "Beurre"
+  ]
+ },
+ {
+  "id": "l2_potaufeu",
+  "title": "Pot-au-feu",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "hiver",
+   "varoma",
+   "mijoté",
+   "bœuf"
+  ],
+  "ing": [
+   "Paleron et macreuse en gros cubes",
+   "Os à moelle",
+   "Oignon piqué de 2 clous de girofle",
+   "Bouquet garni"
+  ]
+ },
+ {
+  "id": "l2_pouleaupot",
+  "title": "Poule au pot",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "hiver",
+   "volaille",
+   "famille",
+   "mijoté"
+  ],
+  "ing": [
+   "Poule prête à cuire",
+   "Pain rassis",
+   "Lait",
+   "Jambon de pays"
+  ]
+ },
+ {
+  "id": "l2_choucroute",
+  "title": "Choucroute garnie",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "hiver",
+   "varoma",
+   "porc",
+   "alsace"
+  ],
+  "ing": [
+   "Choucroute crue",
+   "Oignon",
+   "Graisse d’oie ou saindoux",
+   "Riesling"
+  ]
+ },
+ {
+  "id": "l2_paupiettes",
+  "title": "Paupiettes de veau",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "veau",
+   "famille",
+   "mijoté"
+  ],
+  "ing": [
+   "Paupiettes de veau",
+   "Échalotes",
+   "Carotte",
+   "Huile d’olive"
+  ]
+ },
+ {
+  "id": "l2_roti_porc",
+  "title": "Rôti de porc à la moutarde",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "porc",
+   "famille",
+   "dimanche"
+  ],
+  "ing": [
+   "Rôti de porc dans l’échine",
+   "Moutarde à l’ancienne",
+   "Moutarde de Dijon",
+   "Miel"
+  ]
+ },
+ {
+  "id": "l2_filet_pruneaux",
+  "title": "Filet mignon aux pruneaux",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "porc",
+   "automne",
+   "fêtes"
+  ],
+  "ing": [
+   "Filets mignons de porc",
+   "Pruneaux dénoyautés",
+   "Échalote",
+   "Beurre"
+  ]
+ },
+ {
+  "id": "l2_porc_cidre",
+  "title": "Sauté de porc au cidre",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "porc",
+   "automne",
+   "famille",
+   "mijoté"
+  ],
+  "ing": [
+   "Échine de porc en cubes",
+   "Oignons",
+   "Beurre",
+   "Farine"
+  ]
+ },
+ {
+  "id": "l2_vallee_auge",
+  "title": "Poulet vallée d’Auge",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "volaille",
+   "normandie"
+  ],
+  "ing": [
+   "Hauts de cuisse de poulet sans peau",
+   "Échalotes",
+   "Beurre",
+   "Calvados"
+  ]
+ },
+ {
+  "id": "l2_canard_orange",
+  "title": "Cuisses de canard à l’orange",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "volaille",
+   "fêtes",
+   "hiver"
+  ],
+  "ing": [
+   "Cuisses de canard",
+   "Oranges",
+   "Sucre",
+   "Vinaigre de vin"
+  ]
+ },
+ {
+  "id": "l2_tomates_farcies",
+  "title": "Tomates farcies et riz",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "famille",
+   "été"
+  ],
+  "ing": [
+   "Grosses tomates",
+   "Échine de porc",
+   "Veau ou bœuf",
+   "Oignon"
+  ]
+ },
+ {
+  "id": "l2_courgettes_farcies",
+  "title": "Courgettes farcies provençales",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "été",
+   "famille",
+   "provence"
+  ],
+  "ing": [
+   "Courgettes rondes",
+   "Chair à saucisse",
+   "Oignon",
+   "Gousse d’ail"
+  ]
+ },
+ {
+  "id": "l2_cabillaud_beurre_blanc",
+  "title": "Cabillaud vapeur au beurre blanc",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "poisson",
+   "varoma",
+   "panier"
+  ],
+  "ing": [
+   "Dos de cabillaud",
+   "Pommes de terre",
+   "Eau",
+   "Échalotes"
+  ]
+ },
+ {
+  "id": "l2_truite_amandes",
+  "title": "Truites aux amandes",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "poisson",
+   "rapide"
+  ],
+  "ing": [
+   "Truites vidées",
+   "Farine",
+   "Beurre fondu",
+   "Amandes effilées"
+  ]
+ },
+ {
+  "id": "l2_sole_meuniere",
+  "title": "Sole meunière",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "poisson",
+   "rapide"
+  ],
+  "ing": [
+   "Soles portion (pelées, vidées)",
+   "Farine",
+   "Beurre",
+   "Huile"
+  ]
+ },
+ {
+  "id": "l2_quenelles_nantua",
+  "title": "Quenelles sauce Nantua",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "lyon",
+   "poisson"
+  ],
+  "ing": [
+   "Quenelles de brochet",
+   "Beurre",
+   "Farine",
+   "Fumet de poisson"
+  ]
+ },
+ {
+  "id": "l2_gratin_poisson",
+  "title": "Gratin de poisson aux poireaux",
+  "course": "plat",
+  "tags": [
+   "poisson",
+   "famille",
+   "varoma"
+  ],
+  "ing": [
+   "Filets de cabillaud ou lieu",
+   "Poireaux",
+   "Eau",
+   "Lait"
+  ]
+ },
+ {
+  "id": "l2_papillotes_lieu",
+  "title": "Papillotes de lieu à la fondue de poireaux",
+  "course": "plat",
+  "tags": [
+   "poisson",
+   "varoma",
+   "panier",
+   "rapide",
+   "léger"
+  ],
+  "ing": [
+   "Filets de lieu noir",
+   "Poireaux",
+   "Citron",
+   "Aneth"
+  ]
+ },
+ {
+  "id": "l2_joues_porc",
+  "title": "Joues de porc confites au vin rouge",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "porc",
+   "hiver",
+   "mijoté"
+  ],
+  "ing": [
+   "Joues de porc parées",
+   "Oignon",
+   "Gousses d’ail",
+   "Huile"
+  ]
+ },
+ {
+  "id": "l2_carbonade",
+  "title": "Carbonade flamande",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "bœuf",
+   "nord",
+   "hiver",
+   "mijoté"
+  ],
+  "ing": [
+   "Paleron en cubes",
+   "Oignons",
+   "Beurre",
+   "Bière brune"
+  ]
+ },
+ {
+  "id": "l2_potee",
+  "title": "Potée auvergnate",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "porc",
+   "hiver",
+   "varoma",
+   "auvergne"
+  ],
+  "ing": [
+   "Palette demi-sel",
+   "Saucisses fumées",
+   "Poitrine demi-sel",
+   "Chou vert"
+  ]
+ },
+ {
+  "id": "l2_axoa",
+  "title": "Axoa de veau",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "veau",
+   "pays basque"
+  ],
+  "ing": [
+   "Épaule de veau",
+   "Oignons",
+   "Gousses d’ail",
+   "Poivrons rouges et verts"
+  ]
+ },
+ {
+  "id": "l2_poulet_vinaigre",
+  "title": "Poulet au vinaigre",
+  "course": "plat",
+  "tags": [
+   "classique",
+   "volaille",
+   "lyon"
+  ],
+  "ing": [
+   "Hauts de cuisse de poulet",
+   "Échalotes",
+   "Gousse d’ail",
+   "Beurre"
+  ]
+ },
+ {
+  "id": "l2_quiche_saumon",
+  "title": "Quiche saumon-poireaux",
+  "course": "entree",
+  "tags": [
+   "poisson",
+   "famille"
+  ],
+  "ing": [
+   "Pâte brisée",
+   "Poireaux",
+   "Beurre",
+   "Saumon frais sans peau"
+  ]
+ },
+ {
+  "id": "l2_tarte_tomate",
+  "title": "Tarte fine tomate-moutarde",
+  "course": "entree",
+  "tags": [
+   "végétarien",
+   "été",
+   "rapide"
+  ],
+  "ing": [
+   "Pâte brisée",
+   "Moutarde de Dijon",
+   "Comté râpé",
+   "Tomates"
+  ]
+ },
+ {
+  "id": "l2_salade_lyonnaise",
+  "title": "Salade lyonnaise",
+  "course": "entree",
+  "tags": [
+   "classique",
+   "lyon",
+   "varoma"
+  ],
+  "ing": [
+   "Salade frisée",
+   "Lardons fumés",
+   "Pain de campagne",
+   "Œufs"
+  ]
+ },
+ {
+  "id": "l2_chevre_chaud",
+  "title": "Salade de chèvre chaud",
+  "course": "entree",
+  "tags": [
+   "classique",
+   "végétarien",
+   "rapide"
+  ],
+  "ing": [
+   "Bûche de chèvre",
+   "Baguette",
+   "Miel",
+   "Thym"
+  ]
+ },
+ {
+  "id": "l2_salade_lentilles",
+  "title": "Salade de lentilles vertes",
+  "course": "entree",
+  "tags": [
+   "végétarien",
+   "classique",
+   "famille"
+  ],
+  "ing": [
+   "Lentilles vertes du Puy",
+   "Eau",
+   "Carotte",
+   "Échalote"
+  ]
+ },
+ {
+  "id": "l2_piemontaise",
+  "title": "Salade piémontaise",
+  "course": "entree",
+  "tags": [
+   "classique",
+   "été",
+   "varoma",
+   "famille"
+  ],
+  "ing": [
+   "Pommes de terre",
+   "Œufs",
+   "Eau",
+   "Jambon blanc"
+  ]
+ },
+ {
+  "id": "l2_flan_legumes",
+  "title": "Flans de légumes vapeur",
+  "course": "entree",
+  "tags": [
+   "végétarien",
+   "varoma",
+   "bébé",
+   "famille"
+  ],
+  "ing": [
+   "Carottes",
+   "Courgette",
+   "Œufs",
+   "Crème liquide"
+  ]
+ },
+ {
+  "id": "l2_oeufs_meurette",
+  "title": "Œufs en meurette",
+  "course": "entree",
+  "tags": [
+   "classique",
+   "bourgogne"
+  ],
+  "ing": [
+   "Œufs très frais",
+   "Vin rouge de Bourgogne",
+   "Échalotes",
+   "Lardons"
+  ]
+ },
+ {
+  "id": "l2_cultivateur",
+  "title": "Potage cultivateur",
+  "course": "soupe",
+  "tags": [
+   "classique",
+   "hiver",
+   "famille"
+  ],
+  "ing": [
+   "Carottes",
+   "Navet",
+   "Poireau",
+   "Pommes de terre"
+  ]
+ },
+ {
+  "id": "l2_carottes_cumin",
+  "title": "Velouté de carottes au cumin",
+  "course": "soupe",
+  "tags": [
+   "végétarien",
+   "hiver",
+   "bébé",
+   "rapide"
+  ],
+  "ing": [
+   "Carottes",
+   "Oignon",
+   "Huile d’olive",
+   "Cumin moulu"
+  ]
+ },
+ {
+  "id": "l2_courgettes_frais",
+  "title": "Velouté de courgettes au fromage frais",
+  "course": "soupe",
+  "tags": [
+   "végétarien",
+   "été",
+   "rapide",
+   "bébé"
+  ],
+  "ing": [
+   "Courgettes",
+   "Oignon",
+   "Huile d’olive",
+   "Bouillon de légumes"
+  ]
+ },
+ {
+  "id": "l2_garbure",
+  "title": "Garbure béarnaise",
+  "course": "soupe",
+  "tags": [
+   "classique",
+   "hiver",
+   "béarn"
+  ],
+  "ing": [
+   "Haricots tarbais secs",
+   "Jarret de porc demi-sel",
+   "Cuisses de canard confites",
+   "Chou vert"
+  ]
+ },
+ {
+  "id": "l2_chataignes",
+  "title": "Velouté de châtaignes",
+  "course": "soupe",
+  "tags": [
+   "automne",
+   "hiver",
+   "fêtes"
+  ],
+  "ing": [
+   "Châtaignes cuites sous vide",
+   "Céleri-rave",
+   "Échalote",
+   "Beurre"
+  ]
+ },
+ {
+  "id": "l2_dubarry",
+  "title": "Crème Du Barry",
+  "course": "soupe",
+  "tags": [
+   "classique",
+   "végétarien",
+   "hiver"
+  ],
+  "ing": [
+   "Chou-fleur en bouquets",
+   "Pommes de terre",
+   "Blanc de poireau",
+   "Beurre"
+  ]
+ },
+ {
+  "id": "l2_cresson",
+  "title": "Velouté de cresson",
+  "course": "soupe",
+  "tags": [
+   "classique",
+   "végétarien",
+   "printemps"
+  ],
+  "ing": [
+   "Cresson",
+   "Pommes de terre",
+   "Oignon",
+   "Beurre"
+  ]
+ },
+ {
+  "id": "l2_aligot",
+  "title": "Aligot",
+  "course": "accomp",
+  "tags": [
+   "classique",
+   "hiver",
+   "fromage",
+   "aveyron",
+   "panier"
+  ],
+  "ing": [
+   "Pommes de terre à purée",
+   "Eau",
+   "Tome fraîche de l’Aubrac",
+   "Crème fraîche"
+  ]
+ },
+ {
+  "id": "l2_sarladaises",
+  "title": "Pommes sarladaises",
+  "course": "accomp",
+  "tags": [
+   "classique",
+   "périgord"
+  ],
+  "ing": [
+   "Pommes de terre fermes",
+   "Graisse de canard",
+   "Gousses d’ail",
+   "Persil plat"
+  ]
+ },
+ {
+  "id": "l2_gratin_savoyard",
+  "title": "Gratin savoyard",
+  "course": "accomp",
+  "tags": [
+   "classique",
+   "hiver",
+   "fromage",
+   "savoie",
+   "varoma"
+  ],
+  "ing": [
+   "Pommes de terre",
+   "Eau",
+   "Beaufort râpé",
+   "Bouillon de volaille chaud"
+  ]
+ },
+ {
+  "id": "l2_puree_celeri",
+  "title": "Purée de céleri-rave",
+  "course": "accomp",
+  "tags": [
+   "végétarien",
+   "automne",
+   "hiver",
+   "bébé"
+  ],
+  "ing": [
+   "Céleri-rave",
+   "Pommes de terre",
+   "Lait",
+   "Beurre"
+  ]
+ },
+ {
+  "id": "l2_tian",
+  "title": "Tian provençal",
+  "course": "accomp",
+  "tags": [
+   "classique",
+   "végétarien",
+   "été",
+   "provence"
+  ],
+  "ing": [
+   "Aubergine",
+   "Courgettes",
+   "Tomates",
+   "Oignon"
+  ]
+ },
+ {
+  "id": "l2_cake_jambon",
+  "title": "Cake salé jambon-olives",
+  "course": "aperitif",
+  "tags": [
+   "famille",
+   "pique-nique"
+  ],
+  "ing": [
+   "Farine",
+   "Levure chimique",
+   "Œufs",
+   "Lait"
+  ]
+ },
+ {
+  "id": "l2_feuilletes_saucisse",
+  "title": "Feuilletés saucisse",
+  "course": "aperitif",
+  "tags": [
+   "famille",
+   "fêtes"
+  ],
+  "ing": [
+   "Pâte feuilletée",
+   "Chair à saucisse",
+   "Moutarde",
+   "Jaune d’œuf"
+  ]
+ },
+ {
+  "id": "l2_cervelle_canut",
+  "title": "Cervelle de canut",
+  "course": "aperitif",
+  "tags": [
+   "classique",
+   "lyon",
+   "végétarien",
+   "rapide"
+  ],
+  "ing": [
+   "Fromage blanc en faisselle bien égoutté",
+   "Crème fraîche épaisse",
+   "Échalote",
+   "Gousse d’ail"
+  ]
+ },
+ {
+  "id": "l3_bravas",
+  "title": "Patatas bravas",
+  "course": "aperitif",
+  "tags": [
+   "monde",
+   "végétarien",
+   "apéro"
+  ],
+  "ing": [
+   "Pommes de terre à chair ferme",
+   "Huile d’olive",
+   "Paprika fumé",
+   "Tomates concassées"
+  ]
+ },
+ {
+  "id": "l3_gyros",
+  "title": "Gyros de poulet en pita",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "volaille",
+   "famille"
+  ],
+  "ing": [
+   "Hauts de cuisse de poulet désossés",
+   "Yaourt grec",
+   "Citron",
+   "Origan séché"
+  ]
+ },
+ {
+  "id": "l3_nems",
+  "title": "Nems au porc",
+  "course": "entree",
+  "tags": [
+   "monde",
+   "apéro"
+  ],
+  "ing": [
+   "Porc haché",
+   "Vermicelles de riz",
+   "Champignons noirs séchés",
+   "Carotte"
+  ]
+ },
+ {
+  "id": "l3_tao",
+  "title": "Poulet croustillant façon général Tao",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "volaille",
+   "famille"
+  ],
+  "ing": [
+   "Blancs de poulet",
+   "Fécule de maïs",
+   "Œuf",
+   "Sauce soja"
+  ]
+ },
+ {
+  "id": "l3_quesadillas",
+  "title": "Quesadillas haricots noirs et cheddar",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "végétarien",
+   "rapide"
+  ],
+  "ing": [
+   "Tortillas de blé",
+   "Haricots noirs cuits",
+   "Maïs",
+   "Cheddar râpé"
+  ]
+ },
+ {
+  "id": "l3_burger",
+  "title": "Burgers maison et potatoes",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "famille",
+   "bœuf"
+  ],
+  "ing": [
+   "Bœuf haché 15 %",
+   "Pains à burger",
+   "Cheddar",
+   "Pommes de terre"
+  ]
+ },
+ {
+  "id": "l3_crevettes_coco",
+  "title": "Crevettes panées à la noix de coco",
+  "course": "aperitif",
+  "tags": [
+   "monde",
+   "apéro",
+   "poisson"
+  ],
+  "ing": [
+   "Crevettes crues décortiquées",
+   "Farine",
+   "Œufs",
+   "Noix de coco râpée"
+  ]
+ },
+ {
+  "id": "l3_onion_rings",
+  "title": "Onion rings",
+  "course": "aperitif",
+  "tags": [
+   "monde",
+   "végétarien",
+   "apéro"
+  ],
+  "ing": [
+   "Gros oignons doux",
+   "Farine",
+   "Œufs",
+   "Lait"
+  ]
+ },
+ {
+  "id": "l3_frites_courgettes",
+  "title": "Frites de courgettes au parmesan",
+  "course": "accomp",
+  "tags": [
+   "végétarien",
+   "été",
+   "monde"
+  ],
+  "ing": [
+   "Courgettes",
+   "Farine",
+   "Œufs",
+   "Chapelure panko"
+  ]
+ },
+ {
+  "id": "l3_chips_kale",
+  "title": "Chips de chou kale",
+  "course": "aperitif",
+  "tags": [
+   "végétarien",
+   "apéro",
+   "hiver",
+   "monde"
+  ],
+  "ing": [
+   "Chou kale",
+   "Huile d’olive",
+   "Sel fin",
+   "Paprika fumé"
+  ]
+ },
+ {
+  "id": "l3_hasselback",
+  "title": "Pommes de terre Hasselback",
+  "course": "accomp",
+  "tags": [
+   "monde",
+   "végétarien",
+   "famille"
+  ],
+  "ing": [
+   "Pommes de terre moyennes",
+   "Beurre",
+   "Gousses d’ail",
+   "Thym"
+  ]
+ },
+ {
+  "id": "l3_mozza_sticks",
+  "title": "Mozzarella sticks",
+  "course": "aperitif",
+  "tags": [
+   "monde",
+   "végétarien",
+   "apéro",
+   "famille"
+  ],
+  "ing": [
+   "Mozzarella à pizza (bloc)",
+   "Farine",
+   "Œufs",
+   "Chapelure"
+  ]
+ },
+ {
+  "id": "l3_cuisses_paprika",
+  "title": "Cuisses de poulet croustillantes au paprika",
+  "course": "plat",
+  "tags": [
+   "volaille",
+   "famille",
+   "rapide"
+  ],
+  "ing": [
+   "Cuisses de poulet",
+   "Huile d’olive",
+   "Paprika fumé",
+   "Ail en poudre"
+  ]
+ },
+ {
+  "id": "l3_agneau_soleil",
+  "title": "Côtelettes d’agneau et légumes du soleil",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "agneau",
+   "été"
+  ],
+  "ing": [
+   "Côtelettes d’agneau",
+   "Courgette",
+   "Poivrons",
+   "Oignon rouge"
+  ]
+ },
+ {
+  "id": "l3_roti_boeuf",
+  "title": "Rôti de bœuf en MegaZone",
+  "course": "plat",
+  "tags": [
+   "bœuf",
+   "famille",
+   "fêtes"
+  ],
+  "ing": [
+   "Rôti de bœuf ficelé",
+   "Huile",
+   "Moutarde",
+   "Thym"
+  ]
+ },
+ {
+  "id": "l3_piri_piri",
+  "title": "Poulet piri-piri entier",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "volaille",
+   "famille"
+  ],
+  "ing": [
+   "Poulet entier",
+   "Piments rouges",
+   "Citron",
+   "Gousses d’ail"
+  ]
+ },
+ {
+  "id": "l3_oeufs_durs",
+  "title": "Œufs durs au Ninja",
+  "course": "petitdej",
+  "tags": [
+   "rapide",
+   "végétarien",
+   "famille"
+  ],
+  "ing": [
+   "Œufs à température ambiante"
+  ]
+ },
+ {
+  "id": "l3_brochettes_halloumi",
+  "title": "Brochettes de légumes et halloumi",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "végétarien",
+   "été"
+  ],
+  "ing": [
+   "Halloumi",
+   "Courgette",
+   "Poivron rouge",
+   "Poivron jaune"
+  ]
+ },
+ {
+  "id": "l3_arancini",
+  "title": "Arancini à la mozzarella",
+  "course": "aperitif",
+  "tags": [
+   "monde",
+   "végétarien",
+   "apéro"
+  ],
+  "ing": [
+   "Riz arborio",
+   "Oignon",
+   "Bouillon de légumes",
+   "Parmesan"
+  ]
+ },
+ {
+  "id": "l3_croquettes",
+  "title": "Croquettes de pommes de terre",
+  "course": "accomp",
+  "tags": [
+   "famille",
+   "végétarien",
+   "varoma"
+  ],
+  "ing": [
+   "Pommes de terre farineuses",
+   "Eau",
+   "Jaunes d’œufs",
+   "Beurre"
+  ]
+ },
+ {
+  "id": "l3_empanadas",
+  "title": "Empanadas au bœuf",
+  "course": "entree",
+  "tags": [
+   "monde",
+   "bœuf",
+   "pétrin"
+  ],
+  "ing": [
+   "Farine",
+   "Beurre mou",
+   "Eau tiède",
+   "Œufs"
+  ]
+ },
+ {
+  "id": "l3_accras",
+  "title": "Accras de morue",
+  "course": "aperitif",
+  "tags": [
+   "monde",
+   "apéro",
+   "poisson",
+   "varoma"
+  ],
+  "ing": [
+   "Morue dessalée",
+   "Eau",
+   "Farine",
+   "Levure chimique"
+  ]
+ },
+ {
+  "id": "l3_saumon_laque",
+  "title": "Saumon laqué miel-soja, légumes et riz",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "poisson",
+   "panier",
+   "rapide"
+  ],
+  "ing": [
+   "Pavés de saumon",
+   "Sauce soja",
+   "Miel",
+   "Gingembre frais"
+  ]
+ },
+ {
+  "id": "l3_tandoori",
+  "title": "Poulet tandoori et riz basmati",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "volaille",
+   "panier"
+  ],
+  "ing": [
+   "Hauts de cuisse de poulet",
+   "Yaourt nature",
+   "Gousses d’ail",
+   "Gingembre frais"
+  ]
+ },
+ {
+  "id": "l3_moussaka",
+  "title": "Moussaka",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "agneau",
+   "famille"
+  ],
+  "ing": [
+   "Aubergines",
+   "Agneau haché",
+   "Oignon",
+   "Gousses d’ail"
+  ]
+ },
+ {
+  "id": "l3_parmigiana",
+  "title": "Aubergines à la parmigiana",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "végétarien",
+   "été"
+  ],
+  "ing": [
+   "Aubergines",
+   "Tomates concassées",
+   "Oignon",
+   "Gousses d’ail"
+  ]
+ },
+ {
+  "id": "l3_pulled_pork",
+  "title": "Pulled pork",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "porc",
+   "famille",
+   "mijoté"
+  ],
+  "ing": [
+   "Épaule de porc désossée",
+   "Paprika fumé",
+   "Sucre roux",
+   "Ail en poudre"
+  ]
+ },
+ {
+  "id": "l3_kottbullar",
+  "title": "Boulettes suédoises sauce crème",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "famille",
+   "bœuf"
+  ],
+  "ing": [
+   "Bœuf haché",
+   "Porc haché",
+   "Oignon",
+   "Pain de mie"
+  ]
+ },
+ {
+  "id": "l3_dal",
+  "title": "Dal jaune tadka",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "végétarien",
+   "hiver"
+  ],
+  "ing": [
+   "Pois cassés jaunes",
+   "Eau",
+   "Oignon",
+   "Tomate"
+  ]
+ },
+ {
+  "id": "l3_biryani",
+  "title": "Biryani de poulet",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "volaille",
+   "famille"
+  ],
+  "ing": [
+   "Blancs de poulet",
+   "Yaourt nature",
+   "Garam masala",
+   "Curcuma"
+  ]
+ },
+ {
+  "id": "l3_couscous",
+  "title": "Couscous au poulet et légumes",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "volaille",
+   "varoma",
+   "famille"
+  ],
+  "ing": [
+   "Hauts de cuisse de poulet",
+   "Oignon",
+   "Concentré de tomate",
+   "Ras-el-hanout"
+  ]
+ },
+ {
+  "id": "l3_tajine_citron",
+  "title": "Tajine de poulet au citron confit et olives",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "volaille",
+   "mijoté"
+  ],
+  "ing": [
+   "Hauts de cuisse de poulet",
+   "Oignons",
+   "Gousses d’ail",
+   "Gingembre moulu"
+  ]
+ },
+ {
+  "id": "l3_tajine_kefta",
+  "title": "Tajine de kefta aux œufs",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "bœuf",
+   "famille"
+  ],
+  "ing": [
+   "Bœuf haché",
+   "Oignon",
+   "Persil et coriandre",
+   "Cumin"
+  ]
+ },
+ {
+  "id": "l3_chakchouka",
+  "title": "Chakchouka",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "végétarien",
+   "été"
+  ],
+  "ing": [
+   "Poivrons rouges",
+   "Poivron vert",
+   "Oignon",
+   "Gousses d’ail"
+  ]
+ },
+ {
+  "id": "l3_paella",
+  "title": "Paella poulet, chorizo et crevettes",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "volaille",
+   "varoma"
+  ],
+  "ing": [
+   "Blancs de poulet",
+   "Chorizo",
+   "Oignon",
+   "Poivron rouge"
+  ]
+ },
+ {
+  "id": "l3_tzatziki",
+  "title": "Tzatziki",
+  "course": "sauce",
+  "tags": [
+   "monde",
+   "végétarien",
+   "rapide",
+   "été"
+  ],
+  "ing": [
+   "Concombre",
+   "Yaourt grec",
+   "Gousse d’ail",
+   "Aneth"
+  ]
+ },
+ {
+  "id": "l3_raita",
+  "title": "Raïta concombre-menthe",
+  "course": "sauce",
+  "tags": [
+   "monde",
+   "végétarien",
+   "rapide"
+  ],
+  "ing": [
+   "Concombre",
+   "Yaourt nature",
+   "Menthe",
+   "Cumin moulu"
+  ]
+ },
+ {
+  "id": "l3_salsa",
+  "title": "Salsa fresca",
+  "course": "sauce",
+  "tags": [
+   "monde",
+   "végétarien",
+   "rapide",
+   "été"
+  ],
+  "ing": [
+   "Tomates mûres",
+   "Oignon rouge",
+   "Piment jalapeño",
+   "Coriandre"
+  ]
+ },
+ {
+  "id": "l3_pho",
+  "title": "Pho au bœuf",
+  "course": "soupe",
+  "tags": [
+   "monde",
+   "bœuf",
+   "hiver",
+   "panier"
+  ],
+  "ing": [
+   "Bouillon de bœuf",
+   "Oignon",
+   "Gingembre frais",
+   "Anis étoilé"
+  ]
+ },
+ {
+  "id": "l3_porc_caramel",
+  "title": "Porc au caramel",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "porc",
+   "famille"
+  ],
+  "ing": [
+   "Échine de porc",
+   "Sucre",
+   "Eau",
+   "Échalotes"
+  ]
+ },
+ {
+  "id": "l3_minestrone",
+  "title": "Minestrone",
+  "course": "soupe",
+  "tags": [
+   "monde",
+   "végétarien",
+   "famille",
+   "automne"
+  ],
+  "ing": [
+   "Oignon",
+   "Carottes",
+   "Céleri",
+   "Courgette"
+  ]
+ },
+ {
+  "id": "l3_mafe",
+  "title": "Mafé de bœuf",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "bœuf",
+   "mijoté",
+   "hiver"
+  ],
+  "ing": [
+   "Bœuf à braiser",
+   "Oignon",
+   "Gousses d’ail",
+   "Concentré de tomate"
+  ]
+ },
+ {
+  "id": "l3_chili_sin",
+  "title": "Chili sin carne",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "végétarien",
+   "famille"
+  ],
+  "ing": [
+   "Oignon",
+   "Gousses d’ail",
+   "Poivron rouge",
+   "Lentilles corail"
+  ]
+ },
+ {
+  "id": "l3_tortilla",
+  "title": "Tortilla espagnole",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "végétarien",
+   "famille"
+  ],
+  "ing": [
+   "Pommes de terre",
+   "Oignon",
+   "Œufs",
+   "Huile d’olive"
+  ]
+ },
+ {
+  "id": "l3_bobun",
+  "title": "Bo bun au bœuf",
+  "course": "plat",
+  "tags": [
+   "monde",
+   "bœuf",
+   "été",
+   "rapide"
+  ],
+  "ing": [
+   "Vermicelles de riz",
+   "Rumsteck",
+   "Citronnelle",
+   "Gousses d’ail"
+  ]
+ },
+ {
+  "id": "l4_tarte_fraises",
+  "title": "Tarte aux fraises",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "printemps",
+   "été"
+  ],
+  "ing": [
+   "Farine",
+   "Beurre froid",
+   "Sucre glace",
+   "Œuf"
+  ]
+ },
+ {
+  "id": "l4_bourdaloue",
+  "title": "Tarte Bourdaloue",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "automne",
+   "hiver"
+  ],
+  "ing": [
+   "Pâte sablée",
+   "Beurre mou",
+   "Sucre",
+   "Poudre d’amandes"
+  ]
+ },
+ {
+  "id": "l4_tarte_choco",
+  "title": "Tarte au chocolat",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "chocolat"
+  ],
+  "ing": [
+   "Pâte sablée",
+   "Chocolat noir",
+   "Crème liquide entière",
+   "Lait"
+  ]
+ },
+ {
+  "id": "l4_charlotte",
+  "title": "Charlotte aux fraises",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "printemps",
+   "fouet"
+  ],
+  "ing": [
+   "Fraises",
+   "Sucre",
+   "Feuilles de gélatine",
+   "Crème liquide entière très froide"
+  ]
+ },
+ {
+  "id": "l4_crumble",
+  "title": "Crumble pommes-poires",
+  "course": "dessert",
+  "tags": [
+   "famille",
+   "automne",
+   "hiver"
+  ],
+  "ing": [
+   "Pommes",
+   "Poires",
+   "Farine",
+   "Cassonade"
+  ]
+ },
+ {
+  "id": "l4_cheesecake",
+  "title": "Cheesecake new-yorkais",
+  "course": "dessert",
+  "tags": [
+   "monde",
+   "américain"
+  ],
+  "ing": [
+   "Spéculoos ou biscuits sablés",
+   "Beurre fondu",
+   "Fromage frais type Philadelphia",
+   "Sucre"
+  ]
+ },
+ {
+  "id": "l4_pannacotta",
+  "title": "Panna cotta et coulis de framboise",
+  "course": "dessert",
+  "tags": [
+   "monde",
+   "italien",
+   "rapide"
+  ],
+  "ing": [
+   "Crème liquide entière",
+   "Lait",
+   "Sucre",
+   "Agar-agar"
+  ]
+ },
+ {
+  "id": "l4_pots_creme",
+  "title": "Petits pots de crème au chocolat",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "varoma",
+   "chocolat"
+  ],
+  "ing": [
+   "Chocolat noir",
+   "Lait entier",
+   "Crème liquide",
+   "Œufs"
+  ]
+ },
+ {
+  "id": "l4_marbre",
+  "title": "Marbré chocolat-vanille",
+  "course": "dessert",
+  "tags": [
+   "famille",
+   "goûter"
+  ],
+  "ing": [
+   "Beurre mou",
+   "Sucre",
+   "Œufs",
+   "Farine"
+  ]
+ },
+ {
+  "id": "l4_cake_citron",
+  "title": "Cake au citron glacé",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "goûter"
+  ],
+  "ing": [
+   "Citrons non traités",
+   "Sucre",
+   "Œufs",
+   "Crème fraîche"
+  ]
+ },
+ {
+  "id": "l4_muffins",
+  "title": "Muffins aux myrtilles",
+  "course": "dessert",
+  "tags": [
+   "monde",
+   "américain",
+   "goûter"
+  ],
+  "ing": [
+   "Farine",
+   "Sucre",
+   "Levure chimique",
+   "Œufs"
+  ]
+ },
+ {
+  "id": "l4_meringues",
+  "title": "Meringues croquantes",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "fouet",
+   "goûter"
+  ],
+  "ing": [
+   "Blancs d’œufs",
+   "Sucre",
+   "Jus de citron"
+  ]
+ },
+ {
+  "id": "l4_sables",
+  "title": "Sablés bretons",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "goûter"
+  ],
+  "ing": [
+   "Beurre demi-sel mou",
+   "Sucre",
+   "Jaunes d’œufs",
+   "Farine"
+  ]
+ },
+ {
+  "id": "l4_canneles",
+  "title": "Cannelés bordelais",
+  "course": "dessert",
+  "tags": [
+   "classique"
+  ],
+  "ing": [
+   "Lait entier",
+   "Beurre",
+   "Gousse de vanille",
+   "Farine"
+  ]
+ },
+ {
+  "id": "l4_galette_rois",
+  "title": "Galette des rois à la frangipane",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "hiver",
+   "fêtes"
+  ],
+  "ing": [
+   "Pâtes feuilletées",
+   "Beurre mou",
+   "Sucre",
+   "Poudre d’amandes"
+  ]
+ },
+ {
+  "id": "l4_churros",
+  "title": "Churros au Ninja",
+  "course": "dessert",
+  "tags": [
+   "monde",
+   "espagnol",
+   "goûter"
+  ],
+  "ing": [
+   "Eau",
+   "Beurre",
+   "Sucre",
+   "Farine"
+  ]
+ },
+ {
+  "id": "l4_pain_epices",
+  "title": "Pain d’épices au miel",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "hiver",
+   "fêtes"
+  ],
+  "ing": [
+   "Miel",
+   "Lait",
+   "Beurre",
+   "Cassonade"
+  ]
+ },
+ {
+  "id": "l4_sorbet_mangue",
+  "title": "Sorbet minute à la mangue",
+  "course": "dessert",
+  "tags": [
+   "rapide",
+   "été",
+   "végétarien"
+  ],
+  "ing": [
+   "Mangue surgelée en dés",
+   "Sucre glace",
+   "Citron vert (jus)",
+   "Blanc d’œuf"
+  ]
+ },
+ {
+  "id": "l4_poires_vin",
+  "title": "Poires au vin rouge épicé",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "varoma",
+   "automne",
+   "hiver"
+  ],
+  "ing": [
+   "Poires fermes",
+   "Vin rouge",
+   "Sucre",
+   "Bâton de cannelle"
+  ]
+ },
+ {
+  "id": "l4_gateau_basque",
+  "title": "Gâteau basque à la cerise noire",
+  "course": "dessert",
+  "tags": [
+   "classique",
+   "régional"
+  ],
+  "ing": [
+   "Farine",
+   "Beurre mou",
+   "Sucre",
+   "Poudre d’amandes"
+  ]
+ },
+ {
+  "id": "l4_baguettes",
+  "title": "Baguettes maison",
+  "course": "boulangerie",
+  "tags": [
+   "classique",
+   "pain",
+   "pétrin"
+  ],
+  "ing": [
+   "Eau tiède",
+   "Levure de boulanger fraîche",
+   "Farine T65",
+   "Sel"
+  ]
+ },
+ {
+  "id": "l4_pain_complet",
+  "title": "Pain complet",
+  "course": "boulangerie",
+  "tags": [
+   "pain",
+   "pétrin"
+  ],
+  "ing": [
+   "Eau",
+   "Levure de boulanger fraîche",
+   "Miel",
+   "Farine complète T150"
+  ]
+ },
+ {
+  "id": "l4_focaccia",
+  "title": "Focaccia romarin et fleur de sel",
+  "course": "boulangerie",
+  "tags": [
+   "monde",
+   "italien",
+   "pétrin"
+  ],
+  "ing": [
+   "Eau tiède",
+   "Levure de boulanger fraîche",
+   "Farine T55",
+   "Sel"
+  ]
+ },
+ {
+  "id": "l4_fougasse",
+  "title": "Fougasse aux olives et lardons",
+  "course": "boulangerie",
+  "tags": [
+   "classique",
+   "provençal",
+   "pétrin",
+   "apéritif"
+  ],
+  "ing": [
+   "Eau tiède",
+   "Levure de boulanger fraîche",
+   "Farine T55",
+   "Sel"
+  ]
+ },
+ {
+  "id": "l4_buns",
+  "title": "Buns à burger briochés",
+  "course": "boulangerie",
+  "tags": [
+   "monde",
+   "américain",
+   "pétrin",
+   "famille"
+  ],
+  "ing": [
+   "Lait tiède",
+   "Eau",
+   "Levure de boulanger fraîche",
+   "Sucre"
+  ]
+ },
+ {
+  "id": "l4_pita",
+  "title": "Pains pita",
+  "course": "boulangerie",
+  "tags": [
+   "monde",
+   "libanais",
+   "pétrin"
+  ],
+  "ing": [
+   "Eau tiède",
+   "Levure de boulanger fraîche",
+   "Sucre",
+   "Farine T55"
+  ]
+ },
+ {
+  "id": "l4_pains_lait",
+  "title": "Pains au lait",
+  "course": "boulangerie",
+  "tags": [
+   "classique",
+   "goûter",
+   "pétrin",
+   "famille"
+  ],
+  "ing": [
+   "Lait",
+   "Levure de boulanger fraîche",
+   "Sucre",
+   "Farine T45"
+  ]
+ },
+ {
+  "id": "l4_bagels",
+  "title": "Bagels nature et sésame",
+  "course": "boulangerie",
+  "tags": [
+   "monde",
+   "américain",
+   "pétrin"
+  ],
+  "ing": [
+   "Eau tiède",
+   "Levure de boulanger fraîche",
+   "Sucre",
+   "Farine T65"
+  ]
+ },
+ {
+  "id": "l4_feuilletee",
+  "title": "Pâte feuilletée rapide",
+  "course": "sauce",
+  "tags": [
+   "classique",
+   "base"
+  ],
+  "ing": [
+   "Farine T45",
+   "Beurre très froid en dés",
+   "Eau glacée",
+   "Sel"
+  ]
+ },
+ {
+  "id": "l4_pate_sablee",
+  "title": "Pâte sablée",
+  "course": "sauce",
+  "tags": [
+   "classique",
+   "base",
+   "rapide"
+  ],
+  "ing": [
+   "Farine",
+   "Beurre froid en dés",
+   "Sucre glace",
+   "Poudre d’amandes"
+  ]
+ },
+ {
+  "id": "l4_pate_choux",
+  "title": "Pâte à choux",
+  "course": "sauce",
+  "tags": [
+   "classique",
+   "base"
+  ],
+  "ing": [
+   "Eau",
+   "Lait",
+   "Beurre",
+   "Sel"
+  ]
+ },
+ {
+  "id": "l4_vinaigrette",
+  "title": "Vinaigrette moutarde et miel",
+  "course": "sauce",
+  "tags": [
+   "classique",
+   "rapide",
+   "végétarien"
+  ],
+  "ing": [
+   "Moutarde de Dijon",
+   "Miel",
+   "Vinaigre de vin",
+   "Huile de colza"
+  ]
+ },
+ {
+  "id": "l4_bearnaise",
+  "title": "Sauce béarnaise",
+  "course": "sauce",
+  "tags": [
+   "classique"
+  ],
+  "ing": [
+   "Échalotes",
+   "Vinaigre de vin blanc",
+   "Vin blanc sec",
+   "Estragon frais"
+  ]
+ },
+ {
+  "id": "l4_sauce_tomate",
+  "title": "Sauce tomate maison",
+  "course": "sauce",
+  "tags": [
+   "base",
+   "végétarien",
+   "famille"
+  ],
+  "ing": [
+   "Oignon",
+   "Gousses d’ail",
+   "Huile d’olive",
+   "Tomates concassées"
+  ]
+ },
+ {
+  "id": "l4_caramel",
+  "title": "Caramel au beurre salé",
+  "course": "sauce",
+  "tags": [
+   "classique",
+   "breton"
+  ],
+  "ing": [
+   "Sucre",
+   "Eau",
+   "Crème liquide entière",
+   "Beurre demi-sel"
+  ]
+ },
+ {
+  "id": "l4_pate_tartiner",
+  "title": "Pâte à tartiner noisette-chocolat",
+  "course": "sauce",
+  "tags": [
+   "goûter",
+   "famille",
+   "végétarien"
+  ],
+  "ing": [
+   "Noisettes émondées",
+   "Sucre",
+   "Chocolat au lait",
+   "Chocolat noir"
+  ]
+ },
+ {
+  "id": "l4_bouillon_concentre",
+  "title": "Bouillon de légumes concentré",
+  "course": "sauce",
+  "tags": [
+   "base",
+   "végétarien"
+  ],
+  "ing": [
+   "Carottes",
+   "Céleri-branche",
+   "Poireau",
+   "Oignon"
+  ]
+ },
+ {
+  "id": "l4_the_glace",
+  "title": "Thé glacé pêche-menthe",
+  "course": "boisson",
+  "tags": [
+   "été",
+   "rapide"
+  ],
+  "ing": [
+   "Thé noir",
+   "Eau",
+   "Pêches mûres",
+   "Sucre de canne ou sirop d’agave"
+  ]
+ },
+ {
+  "id": "l4_milkshake",
+  "title": "Milkshake fraise-vanille",
+  "course": "boisson",
+  "tags": [
+   "rapide",
+   "été",
+   "famille"
+  ],
+  "ing": [
+   "Fraises",
+   "Glace vanille",
+   "Lait entier froid",
+   "Sucre"
+  ]
+ },
+ {
+  "id": "l4_lait_avoine",
+  "title": "Lait d’avoine",
+  "course": "boisson",
+  "tags": [
+   "végétarien",
+   "rapide",
+   "base"
+  ],
+  "ing": [
+   "Flocons d’avoine",
+   "Eau très froide",
+   "Dattes dénoyautées",
+   "Sel"
+  ]
+ },
+ {
+  "id": "l4_chai",
+  "title": "Chaï latte",
+  "course": "boisson",
+  "tags": [
+   "monde",
+   "indien",
+   "hiver"
+  ],
+  "ing": [
+   "Lait",
+   "Eau",
+   "Thé noir",
+   "Gingembre frais"
+  ]
+ },
+ {
+  "id": "l4_vin_chaud",
+  "title": "Vin chaud aux épices",
+  "course": "boisson",
+  "tags": [
+   "hiver",
+   "fêtes",
+   "alcool"
+  ],
+  "ing": [
+   "Vin rouge",
+   "Orange",
+   "Sucre",
+   "Bâtons de cannelle"
+  ]
+ },
+ {
+  "id": "l4_smoothie_vert",
+  "title": "Smoothie vert épinards-kiwi",
+  "course": "boisson",
+  "tags": [
+   "rapide",
+   "végétarien",
+   "été"
+  ],
+  "ing": [
+   "Jeunes pousses d’épinards",
+   "Kiwis",
+   "Pomme",
+   "Banane"
+  ]
+ },
+ {
+  "id": "l4_porridge",
+  "title": "Porridge pomme-cannelle",
+  "course": "petitdej",
+  "tags": [
+   "végétarien",
+   "hiver",
+   "rapide"
+  ],
+  "ing": [
+   "Flocons d’avoine",
+   "Lait",
+   "Pomme",
+   "Cannelle"
+  ]
+ },
+ {
+  "id": "l4_bircher",
+  "title": "Bircher muesli",
+  "course": "petitdej",
+  "tags": [
+   "végétarien",
+   "été",
+   "monde"
+  ],
+  "ing": [
+   "Flocons d’avoine",
+   "Jus de pomme",
+   "Yaourt nature",
+   "Pomme"
+  ]
+ },
+ {
+  "id": "l4_oeufs_brouilles",
+  "title": "Œufs brouillés crémeux",
+  "course": "petitdej",
+  "tags": [
+   "classique",
+   "rapide",
+   "végétarien"
+  ],
+  "ing": [
+   "Œufs",
+   "Beurre",
+   "Crème fraîche",
+   "Ciboulette"
+  ]
+ },
+ {
+  "id": "l4_beurre_maison",
+  "title": "Beurre maison et babeurre",
+  "course": "petitdej",
+  "tags": [
+   "base",
+   "végétarien"
+  ],
+  "ing": [
+   "Crème liquide entière (35 %)",
+   "Eau glacée",
+   "Fleur de sel"
+  ]
+ },
+ {
+  "id": "l4_bebe_carotte",
+  "title": "Purée bébé de carottes",
+  "course": "accomp",
+  "tags": [
+   "bébé",
+   "varoma",
+   "panier"
+  ],
+  "ing": [
+   "Carottes",
+   "Eau",
+   "Huile de colza"
+  ]
+ },
+ {
+  "id": "l4_bebe_courgette_poulet",
+  "title": "Purée bébé courgette-poulet",
+  "course": "accomp",
+  "tags": [
+   "bébé",
+   "varoma",
+   "panier"
+  ],
+  "ing": [
+   "Courgettes",
+   "Pomme de terre",
+   "Blanc de poulet",
+   "Eau"
+  ]
+ },
+ {
+  "id": "l4_bebe_poire",
+  "title": "Compote bébé poire-vanille",
+  "course": "dessert",
+  "tags": [
+   "bébé",
+   "végétarien"
+  ],
+  "ing": [
+   "Poires mûres",
+   "Eau",
+   "Gousse de vanille (facultatif, dès 8 mois)"
+  ]
+ }
+]
